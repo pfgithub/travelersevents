@@ -5,3 +5,4 @@ you slide the glass entrance open, and are greeted by deep darkness, broken only
 - **open maintenance closet**: I have not gone this way yet.
 - **the hazard door**: I have not gone this way yet.
 - **the machinery room**: [the machinery room](the-machinery-room-kqozw3.md)
+- **back out toward the city**: [the asphalt trail](the-asphalt-trail-Nq6j0lu.md)
