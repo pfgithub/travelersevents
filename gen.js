@@ -13,9 +13,18 @@ function eventTitle(ev) {
     throw new Error("unreachable");
 }
 
+let catif = (txt, ycy) => txt ? ycy.replace("{}", txt) : "";
+
+function eventDescription(ev) {
+    if(ev.type === "travel") return "Walking.";
+    if(ev.type === "loot") return ev.data.desc + catif(ev.data.visitdesc, "\n\n**Visited**: {}");
+    if(ev.type === "event") return ev.data.stage_data.desc + catif(ev.data.stage_data.req_met_desc, "\n\n**If Req Met**: {}");
+    throw new Error("unreachable");
+}
+
 function eventPrint(k, ev) {
     let res = "";
-    res += "# "+eventTitle(ev) + "\n\n";
+    res += "# "+eventTitle(ev) + "\n\n" + eventDescription(ev) + "\n\n";
     for(let option of ev.options) {
         let vloc = ev.visits[option];
         if(vloc) {
