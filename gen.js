@@ -39,7 +39,7 @@ function eventPrint(k, ev) {
 (async () => {
     await fs.mkdir(locationsDir, {recursive: true});
     for(let [k, v] of Object.entries(eventmap)) {
-        locationFiles.set(k, eventTitle(v).replace(/[^a-zA-Z0-9]/g, "-") + "-"+k);
+        locationFiles.set(k, eventTitle(v).replace(/[^a-zA-Z0-9]/g, "-") + "-"+k+".md");
         locationNames.set(k, eventTitle(v));
     }
     for(let [k, v] of Object.entries(eventmap)) {
