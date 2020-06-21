@@ -7,8 +7,8 @@ let locationFiles = new Map();
 let locationNames = new Map();
 
 function eventTitle(ev) {
-    if(ev.type === "travel") return "travel";
-    if(ev.type === "loot") return ev.data.title;
+    if(ev.type === "travel") return "Travel";
+    if(ev.type === "loot") return ev.data.title + " (Looting)";
     if(ev.type === "event") return ev.data.stage_data.title;
     throw new Error("unreachable");
 }
@@ -24,7 +24,9 @@ function eventDescription(ev) {
 
 function eventPrint(k, ev) {
     let res = "";
-    res += "# "+eventTitle(ev) + "\n\n" + eventDescription(ev) + "\n\n";
+    res += "# "+eventTitle(ev) + "\n\n";
+    res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + "\n\n";
+    res += eventDescription(ev) + "\n\n";
     for(let option of ev.options) {
         let vloc = ev.visits[option];
         if(vloc) {

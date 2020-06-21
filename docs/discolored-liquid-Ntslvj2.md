@@ -1,5 +1,7 @@
 # discolored liquid
 
+Seen 13 times
+
 the sewage here is tinted gray.
 
 - **north**: I have not gone this way yet.

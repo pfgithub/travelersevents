@@ -1,5 +1,7 @@
 # the safe
 
+1 view
+
 the hinges creak surprisingly loudly for such a small thing.
 
 - **loot**: [the ruined office](the-ruined-office-Nnkh4ub.md)
