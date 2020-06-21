@@ -27,6 +27,17 @@ function eventPrint(k, ev) {
     res += "# "+eventTitle(ev) + "\n\n";
     res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + "\n\n";
     res += eventDescription(ev) + "\n\n";
+    if(ev.type === "loot") {
+        res += "## Example Loot:\n\n";
+        for(let [name, item] of Object.entries(ev.data.items)) {
+            res += "- +"+item.count+" "+item.data.title+" (<code>";
+            res += item.data.icon.replace(/[\\*_]/g, "\\$0")+"</code>)  \n";
+            res += "  "+item.data.desc+"  \n";
+            res += "  **weight**: "+item.data.weight+" units\n";
+        }
+        res += "\n";
+    }
+    res += "## Buttons:\n\n";
     for(let option of ev.options) {
         let vloc = ev.visits[option];
         if(vloc) {

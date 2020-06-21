@@ -6,5 +6,7 @@ a row of tall garage doors stand indented into the short building, boarded over 
 
 **If Req Met**: a row of tall garage doors stand indenting into a short building, boarded over by wood, chains, and threatening signs. the chains over the glass door have been snapped, leaving it wide open.
 
+## Buttons:
+
 - **go in**: I have not gone this way yet.
 - **leave**: [Travel](Travel-travel.md)

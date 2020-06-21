@@ -6,6 +6,8 @@ the drawers have been cleared but beneath the desk is a small black safe, its pa
 
 **If Req Met**: beneath the desk is a small black safe, its paint slightly chipped with rust. a black hole has been seared through its small door, leaving it open on its hinges.
 
+## Buttons:
+
 - **look inside**: [the safe (Looting)](the-safe--Looting--j84kap.md)
 - **the rest of the room**: [the ruined office](the-ruined-office-Nnkh4ub.md)
 - **go back**: I have not gone this way yet.
