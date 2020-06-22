@@ -22,9 +22,15 @@ function eventDescription(ev) {
     throw new Error("unreachable");
 }
 
+function percent(curr, total) {
+    return (curr * 100 / total).toFixed(2) + "% ("+curr+"/"+total+")";
+}
+
 function eventPrint(k, ev) {
     let lastSeen = ev.latestView ? new Date(ev.latestView).toISOString() : "??";
-    let loot = Object.entries(ev.loot || {}).sort((a, b) => a[0].localeCompare(b[0]));
+    let loot = Object.entries(ev.loot || {})
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .map(([a, b]) => [JSON.parse(a), b]);
     let res = "";
     res += "# "+eventTitle(ev) + "\n\n";
     res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + ". Last seen "+lastSeen+".\n\n";
@@ -42,21 +48,38 @@ function eventPrint(k, ev) {
         res += "- *No options. Strange.*";
     }
     res += "\n";
-    if(loot.length >= 1 && !(ev.type !== "loot" && loot.length === 1 && loot[0][0] === "[]")) {
+    if(loot.length >= 1 && !(ev.type !== "loot" && loot.length === 1 && loot[0][0].length === 0)) {
         res += "## Loot Frequency:\n\n";
         let total = loot.reduce((t, b) => t + b[1], 0);
+        let itemGroups = {};
         for(let [json, count] of loot) {
-            res += "- "+(count * 100 / total).toFixed(2)+"% ("+count+" / "+total+") ";
-            res += ":\n";
-            let items = JSON.parse(json).sort((a, b) => {
-                let countComp = a.count - b.count;
-                if(countComp) return countComp;
-                return a.name.localeCompare(b.name);
-            });
-            for(let item of items)
-                res += "  - +"+item.count+" "+item.name+"\n";
-            if(items.length === 0)
-                res += "  - *no loot*";
+            let key = [...new Set(json.map(item => item.id))].sort().join("%,%");
+            if(!itemGroups[key]) itemGroups[key] = {arr: [], total: 0};
+            itemGroups[key].total += count;
+            itemGroups[key].arr.push([json, count]);
+        }
+        for(let [itemStr, values] of Object.entries(itemGroups)) {
+            let groupTotal = values.total;
+            let items = itemStr.split("%,%");
+            let itemValues = {};
+            for(let [json, count] of values.arr) {
+                for(let item of json) {
+                    if(!itemValues[item.id]) itemValues[item.id] = {...item, counts: []};
+                    let exst = itemValues[item.id].counts.find(q => q.count === item.count);
+                    if(exst)
+                        exst.chance += count;
+                    else
+                        itemValues[item.id].counts.push({count: item.count, chance: count});
+                }
+            }
+            res += "- +"+percent(groupTotal, total)+" chance of:\n";
+            let vlus = Object.entries(itemValues);
+            if(vlus.length === 0)
+                res += "  - *No items*";
+            for(let [_, item] of vlus) {
+                let counts = item.counts.map(a => "<a title=\""+percent(a.chance, groupTotal)+"\">" + a.count + "</a>").join(", ");
+                res += "  - "+item.name+": "+counts+" (hover for chance)\n";
+            }
         }
         res += "\n";
     }else if(ev.type === "loot") {

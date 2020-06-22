@@ -13,21 +13,9 @@ dug with haste.
 
 ## Loot Frequency:
 
-- 9.14% (153 / 1674) :
-  - +2 copper ore
-- 8.54% (143 / 1674) :
-  - +3 copper ore
-- 7.71% (129 / 1674) :
-  - +4 copper ore
-- 16.37% (274 / 1674) :
-  - +2 scrap metal
-- 16.67% (279 / 1674) :
-  - +3 scrap metal
-- 16.49% (276 / 1674) :
-  - +4 scrap metal
-- 8.84% (148 / 1674) :
-  - +2 steel shard
-- 7.29% (122 / 1674) :
-  - +3 steel shard
-- 8.96% (150 / 1674) :
-  - +4 steel shard
+- +25.39% (425/1674) chance of:
+  - copper ore: <a title="36.00% (153/425)">2</a>, <a title="33.65% (143/425)">3</a>, <a title="30.35% (129/425)">4</a> (hover for chance)
+- +49.52% (829/1674) chance of:
+  - scrap metal: <a title="33.05% (274/829)">2</a>, <a title="33.66% (279/829)">3</a>, <a title="33.29% (276/829)">4</a> (hover for chance)
+- +25.09% (420/1674) chance of:
+  - steel shard: <a title="35.24% (148/420)">2</a>, <a title="29.05% (122/420)">3</a>, <a title="35.71% (150/420)">4</a> (hover for chance)
