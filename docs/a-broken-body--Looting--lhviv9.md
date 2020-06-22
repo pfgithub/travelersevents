@@ -11,7 +11,7 @@ the ruined corpse of a traveler lies on the ground, surrounded neatly by its pos
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
 - 100.00% (1 / 1) :
   - +1 crowbar

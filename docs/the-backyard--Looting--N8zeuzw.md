@@ -9,7 +9,7 @@ a toy car is overturned in the dirt, ash layered on top of it. there's an open s
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
 - 3.23% (1 / 31) :
   - *no loot*- 3.23% (1 / 31) :

@@ -11,7 +11,7 @@ dug with haste.
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
 - 9.14% (153 / 1674) :
   - +2 copper ore

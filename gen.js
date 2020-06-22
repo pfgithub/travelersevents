@@ -42,8 +42,8 @@ function eventPrint(k, ev) {
         res += "- *No options. Strange.*";
     }
     res += "\n";
-    if(loot.length >= 1 && !(loot[0][0] === "[]" && ev.type !== "loot")) {
-        res += "## Example Loot:\n\n";
+    if(loot.length >= 1 && !(ev.type !== "loot" && loot.length === 1 && loot[0][0] === "[]")) {
+        res += "## Loot Frequency:\n\n";
         let total = loot.reduce((t, b) => t + b[1], 0);
         for(let [json, count] of loot) {
             res += "- "+(count * 100 / total).toFixed(2)+"% ("+count+" / "+total+") ";
