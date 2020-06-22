@@ -30,10 +30,10 @@
 				"lhviv9"
 			]
 		},
-		"views": 3329345,
-		"latestView": 1592811454902,
+		"views": 3330336,
+		"latestView": 1592812491577,
 		"loot": {
-			"[]": 39335
+			"[]": 40326
 		}
 	},
 	"Nr8eiv1": {
@@ -68,18 +68,18 @@
 				"Nr8eiv1"
 			]
 		},
-		"views": 132552,
-		"latestView": 1592811453975,
+		"views": 132591,
+		"latestView": 1592812470916,
 		"loot": {
-			"[{\"id\":\"steel_shard\",\"name\":\"steel_shard\",\"count\":2}]": 145,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":2}]": 267,
-			"[{\"id\":\"steel_shard\",\"name\":\"steel_shard\",\"count\":4}]": 146,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper_ore\",\"count\":3}]": 140,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":3}]": 273,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper_ore\",\"count\":4}]": 125,
-			"[{\"id\":\"steel_shard\",\"name\":\"steel_shard\",\"count\":3}]": 120,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper_ore\",\"count\":2}]": 150,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4}]": 269
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 148,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 274,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":4}]": 150,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":3}]": 143,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 279,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":4}]": 129,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3}]": 122,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":2}]": 153,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 276
 		}
 	},
 	"2d8gx5": {
@@ -90,7 +90,7 @@
 				"title": "a walled city",
 				"desc": "a majestic city enclosed in ancient stone rises out of the horizon, its innermost towers piercing the unending clouds. the portion of wall you've approached is dominating and unscathed, but a section a few kilometers to the east looks a little more weathered.",
 				"btns": {
-					"fuAQ7km": {
+					"if3paV7": {
 						"text": "the eastern side"
 					},
 					"__leave__": {
@@ -112,10 +112,10 @@
 				"2d8gx5"
 			]
 		},
-		"views": 3243,
-		"latestView": 1592809140088,
+		"views": 3244,
+		"latestView": 1592811806768,
 		"loot": {
-			"[]": 34
+			"[]": 35
 		}
 	},
 	"Nrj1yat": {
@@ -738,10 +738,10 @@
 				"title": "a desolate city",
 				"desc": "red skyscrapers rise out of the wasteland, their strong metal beams exposed and oxidized. the soot-caked wasteland turns into hard asphalt, rising over slums that begin to poke out of the sand. an exit curves away to your right, but otherwise, the highway continues onward.",
 				"btns": {
-					"Ivo4Bdg": {
+					"hN8Y0Xu": {
 						"text": "the slums"
 					},
-					"Y3lvKV2": {
+					"mD8Jwvg": {
 						"text": "the highway"
 					},
 					"__leave__": {
@@ -764,10 +764,10 @@
 				"Nwbfckh"
 			]
 		},
-		"views": 3087,
-		"latestView": 1592811199461,
+		"views": 3090,
+		"latestView": 1592812126007,
 		"loot": {
-			"[]": 24
+			"[]": 27
 		}
 	},
 	"lxsdpw": {
@@ -1298,7 +1298,7 @@
 				"title": "a childcare center",
 				"desc": "asphalt escapes beneath the ashen sand and leads to a single building, standing alone among a strip of collapsed structures. a sign over the glass doors indicates it was once a place where parents would leave their children during working hours. graffiti coats the walls, most of it too faded to read, but one mural states \"it was them all along\".",
 				"btns": {
-					"MS0OnVZ": {
+					"WcUPogJ": {
 						"text": "look inside"
 					},
 					"__leave__": {
@@ -1320,10 +1320,10 @@
 				"jpn4ox"
 			]
 		},
-		"views": 3054,
-		"latestView": 1592811128578,
+		"views": 3055,
+		"latestView": 1592811592828,
 		"loot": {
-			"[]": 37
+			"[]": 38
 		}
 	},
 	"xqyqbv": {
@@ -1444,7 +1444,7 @@
 				"title": "a low home",
 				"desc": "the simple structure juts out of the landscape like a raw bone, short and worn by time. the door is chained shut, but the one window to the side is long shattered.",
 				"btns": {
-					"8IeSNl2": {
+					"0nxbnuI": {
 						"text": "climb inside"
 					},
 					"__leave__": {
@@ -1465,28 +1465,29 @@
 				"hbfou6"
 			]
 		},
-		"views": 2973,
-		"latestView": 1592810684199,
+		"views": 2974,
+		"latestView": 1592812178211,
 		"loot": {
-			"[]": 28
+			"[]": 29
 		}
 	},
 	"Npxhk2u": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "a ruined house",
-				"desc": "there's a unique odor in the air as you enter the house, the door clattering off its hinges. a once comfortable home has fallen to now-dead insects. all the furniture was removed from the living room, scrapes still marking the floor from when they were stolen. a light flickers in the kitchen.",
-				"visited": "a once comfortable home has fallen to now-dead insects. the door has fallen from its hinges and lays out in the open, covering the stairs. there is little ash settled on it compared to the rest of the structure; someone was here recently. after walking inside, you notice a light flickering in the kitchen.",
 				"btns": {
-					"ig8Akbq": {
+					"fjBcUmn": {
 						"text": "the kitchen"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "a ruined house",
+				"desc": "there's a unique odor in the air as you enter the house, the door clattering off its hinges. a once comfortable home has fallen to now-dead insects. all the furniture was removed from the living room, scrapes still marking the floor from when they were stolen. a light flickers in the kitchen.",
+				"req_met_desc": null,
+				"visited": "a once comfortable home has fallen to now-dead insects. the door has fallen from its hinges and lays out in the open, covering the stairs. there is little ash settled on it compared to the rest of the structure; someone was here recently. after walking inside, you notice a light flickering in the kitchen."
 			}
 		},
 		"options": [
@@ -1502,10 +1503,10 @@
 				"4tv44d"
 			]
 		},
-		"views": 3104,
-		"latestView": 1592811182745,
+		"views": 3106,
+		"latestView": 1592812070904,
 		"loot": {
-			"[]": 44
+			"[]": 46
 		}
 	},
 	"g1m70n": {
@@ -1516,7 +1517,7 @@
 				"title": "a withered city",
 				"desc": "sprawling skyscrapers tower overhead, triumphed only by the massive sinkhole that has swallowed every road in sight. smaller buildings have collapsed into it, spilling rubble everywhere, while the bigger ones' support beams are exposed to the open air. the hole is long and wide, encompassing most of the city from where you stand, but it doesn't seem to be too deep. as you walk forward, you can see a path is made through some cracked roads laying over the debris toward an underground tunnel.",
 				"btns": {
-					"jj1qQAx": {
+					"1CRDZmo": {
 						"text": "the tunnel"
 					},
 					"__leave__": {
@@ -1538,10 +1539,10 @@
 				"travel"
 			]
 		},
-		"views": 3166,
-		"latestView": 1592811425439,
+		"views": 3167,
+		"latestView": 1592812249199,
 		"loot": {
-			"[]": 34
+			"[]": 35
 		}
 	},
 	"Ne68x5o": {
@@ -1889,19 +1890,18 @@
 	"N86n0fb": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a church",
+				"desc": "a tall but thin building is just ahead, a cross atop its steeple and double doors shut tight.",
 				"btns": {
-					"qUIwEiK": {
+					"XdgDXED": {
 						"text": "investigate"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a church",
-				"desc": "a tall but thin building is just ahead, a cross atop its steeple and double doors shut tight.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -1917,10 +1917,10 @@
 				"cxotkj"
 			]
 		},
-		"views": 3089,
-		"latestView": 1592808492688,
+		"views": 3090,
+		"latestView": 1592811471712,
 		"loot": {
-			"[]": 30
+			"[]": 31
 		}
 	},
 	"Nkx66dg": {
@@ -1931,7 +1931,7 @@
 				"title": "an old home",
 				"desc": "the house stands strong, despite the world's decay. the roof, though coated in the soot that layers everything, has no holes. someone could even be still living here.",
 				"btns": {
-					"zjQ6AXJ": {
+					"aLhX4gB": {
 						"text": "enter"
 					},
 					"__leave__": {
@@ -1954,10 +1954,10 @@
 				"Nkx66dg"
 			]
 		},
-		"views": 2957,
-		"latestView": 1592810513748,
+		"views": 2959,
+		"latestView": 1592812488731,
 		"loot": {
-			"[]": 34
+			"[]": 36
 		}
 	},
 	"N51ipt6": {
@@ -2554,7 +2554,7 @@
 		"views": 11,
 		"latestView": 1592808496593,
 		"loot": {
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper_coil\",\"count\":3}]": 1
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3}]": 1
 		}
 	},
 	"hbfou6": {
@@ -2850,7 +2850,7 @@
 				"title": "a pet store",
 				"desc": "a cracked building stands alone among a line of rubble, broken windows with peeling advertisements declaring this was a store for domestic animals. a dusty road emerges from the ash to lead up to what was once a bustling strip mall.",
 				"btns": {
-					"g5MSIgo": {
+					"y2IH6ND": {
 						"text": "enter"
 					},
 					"__leave__": {
@@ -2872,10 +2872,10 @@
 				"travel"
 			]
 		},
-		"views": 2941,
-		"latestView": 1592804696618,
+		"views": 2942,
+		"latestView": 1592812429616,
 		"loot": {
-			"[]": 45
+			"[]": 46
 		}
 	},
 	"Nmvvdsm": {
@@ -3295,7 +3295,7 @@
 		}
 	},
 	"Natz9b1": {
-		"views": 426,
+		"views": 427,
 		"type": "event",
 		"data": {
 			"visited": false,
@@ -3303,7 +3303,7 @@
 				"title": "a weathered house",
 				"desc": "a yellow home sticks out of the ground like a stain in the landscape, no accompanying road or houses nearby to indicate it as part of a neighborhood. the siding is peeling, the windows are broken, and the door hangs open, unmoving in the dead atmosphere.",
 				"btns": {
-					"B2Eb74q": {
+					"letNppA": {
 						"text": "enter"
 					},
 					"__leave__": {
@@ -3321,13 +3321,13 @@
 				"Nx0mvfh"
 			]
 		},
-		"latestView": 1592811337393,
+		"latestView": 1592811579045,
 		"loot": {
-			"[]": 30
+			"[]": 31
 		}
 	},
 	"Nx0mvfh": {
-		"views": 426,
+		"views": 427,
 		"type": "event",
 		"data": {
 			"visited": false,
@@ -3335,10 +3335,10 @@
 				"title": "the entrance hall",
 				"desc": "the front door opens into a hallway, with an entrance to either side for a moldy bathroom and a living room. old photos and paintings hang in the hallway, which leads to a kitchen.",
 				"btns": {
-					"gTPjuMi": {
+					"dKvMaCM": {
 						"text": "the living room"
 					},
-					"oBuTBPu": {
+					"TwpuPZe": {
 						"text": "the kitchen"
 					},
 					"__leave__": {
@@ -3357,13 +3357,13 @@
 				"65tb7d"
 			]
 		},
-		"latestView": 1592811338348,
+		"latestView": 1592811580150,
 		"loot": {
-			"[]": 30
+			"[]": 31
 		}
 	},
 	"65tb7d": {
-		"views": 426,
+		"views": 427,
 		"type": "event",
 		"data": {
 			"visited": false,
@@ -3371,7 +3371,7 @@
 				"title": "the kitchen",
 				"desc": "the kitchen is small, complete with only a few rotted chairs around a fallen table and a refrigerator. it's still humming, power somehow still reaching it after all this time, but the door hangs open, revealing an empty interior. the freezer door has alphabet magnets on it, a few of them spelling \"we miss you mom\". there's a door leading to the backyard.",
 				"btns": {
-					"LzHE1tT": {
+					"GLlAYEA": {
 						"text": "the backyard"
 					},
 					"__leave__": {
@@ -3389,13 +3389,13 @@
 				"N8zeuzw"
 			]
 		},
-		"latestView": 1592811339329,
+		"latestView": 1592811581028,
 		"loot": {
-			"[]": 30
+			"[]": 31
 		}
 	},
 	"N8zeuzw": {
-		"views": 426,
+		"views": 427,
 		"type": "loot",
 		"data": {
 			"title": "the backyard",
@@ -3413,20 +3413,15 @@
 						"desc": "a few shards of metal. probably can be bent into useful shapes."
 					}
 				},
-				"fire_extinguisher": {
-					"count": 1,
+				"cloth": {
+					"count": 5,
 					"data": {
-						"name": "fire_extinguisher",
-						"title": "fire extinguisher",
-						"type": "weap",
-						"weight": 11,
-						"icon": "Û",
-						"desc": "an empty metal can, once capable of saving lives, is now used to inflict pain.",
-						"weapon": true,
-						"weapon_data": {
-							"dmg": 11,
-							"sp": 11
-						}
+						"name": "cloth",
+						"title": "cloth",
+						"type": "misc",
+						"weight": 1,
+						"icon": "c",
+						"desc": "tattered and partially rotted fabric, but combined with others like it, could still be put to use."
 					}
 				}
 			},
@@ -3441,30 +3436,31 @@
 				"travel"
 			]
 		},
-		"latestView": 1592811340257,
+		"latestView": 1592811581973,
 		"loot": {
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 2,
 			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5},{\"id\":\"fire_extinguisher\",\"name\":\"fire_extinguisher\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 3,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":2}]": 3,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 2,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 2,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1}]": 2,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
 			"[]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
 			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":2},{\"id\":\"fire_extinguisher\",\"name\":\"fire_extinguisher\",\"count\":1}]": 1
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1
 		}
 	},
 	"N1fxbts": {
@@ -3835,7 +3831,7 @@
 		},
 		"latestView": 1592788573662,
 		"loot": {
-			"[{\"id\":\"circuit_board\",\"name\":\"circuit_board\",\"count\":2},{\"id\":\"crowbar\",\"name\":\"crowbar\",\"count\":1},{\"id\":\"copper_coil\",\"name\":\"copper_coil\",\"count\":8},{\"id\":\"wire\",\"name\":\"wire\",\"count\":6},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":8},{\"id\":\"rusty_knife\",\"name\":\"rusty_knife\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"scrap_metal\",\"name\":\"scrap_metal\",\"count\":15},{\"id\":\"wood_stick\",\"name\":\"wood_stick\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1
+			"[{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":2},{\"id\":\"crowbar\",\"name\":\"crowbar\",\"count\":1},{\"id\":\"copper coil\",\"name\":\"copper_coil\",\"count\":8},{\"id\":\"wire\",\"name\":\"wire\",\"count\":6},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":8},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":15},{\"id\":\"wood_stick\",\"name\":\"wood_stick\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1
 		}
 	}
 }

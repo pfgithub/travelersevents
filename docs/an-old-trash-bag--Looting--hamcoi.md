@@ -6,6 +6,10 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 
 **Visited**: the bag has been bent over and ripped. whoever was here has searched it already.
 
+## Buttons:
+
+- **loot**: [Travel](Travel-travel.md)
+- **leave**: I have not gone this way yet.
 ## Example Loot:
 
 - +3 wood plank (<code>/</code>)  
@@ -18,7 +22,3 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
   an old butcher's knife, edge rusted away, but still capable of damage.  
   **weight**: 4 units
 
-## Buttons:
-
-- **loot**: [Travel](Travel-travel.md)
-- **leave**: I have not gone this way yet.

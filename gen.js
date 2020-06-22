@@ -24,20 +24,11 @@ function eventDescription(ev) {
 
 function eventPrint(k, ev) {
     let lastSeen = ev.latestView ? new Date(ev.latestView).toISOString() : "??";
+    let loot = Object.entries(ev.loot || {}).sort((a, b) => a[0].localeCompare(b[0]));
     let res = "";
     res += "# "+eventTitle(ev) + "\n\n";
     res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + ". Last seen "+lastSeen+".\n\n";
     res += eventDescription(ev) + "\n\n";
-    if(ev.type === "loot") {
-        res += "## Example Loot:\n\n";
-        for(let [name, item] of Object.entries(ev.data.items)) {
-            res += "- +"+item.count+" "+item.data.title+" (<code>";
-            res += item.data.icon.replace(/[\\*_]/g, "\\$0")+"</code>)  \n";
-            res += "  "+item.data.desc+"  \n";
-            res += "  **weight**: "+item.data.weight+" units\n";
-        }
-        res += "\n";
-    }
     res += "## Buttons:\n\n";
     for(let option of ev.options) {
         let vloc = ev.visits[option];
@@ -46,6 +37,33 @@ function eventPrint(k, ev) {
             res += "- **"+option+"**: "+vloc.map(im => "["+locationNames.get(im)+"]("+locationFiles.get(im)+")").join(", ")+"\n";
         }else
             res += "- **"+option+"**: I have not gone this way yet.\n";
+    }
+    if(loot.length >= 1 && !(loot[0][0] === "[]" && ev.type !== "loot")) {
+        res += "## Example Loot:\n\n";
+        let total = loot.reduce((t, b) => t + b[1], 0);
+        for(let [json, count] of loot) {
+            res += "- "+(count * 100 / total).toFixed(2)+"% ("+count+" / "+total+") ";
+            res += ":\n";
+            let items = JSON.parse(json).sort((a, b) => {
+                let countComp = a.count - b.count;
+                if(countComp) return countComp;
+                return a.name.localeCompare(b.name);
+            });
+            for(let item of items)
+                res += "  - +"+item.count+" "+item.name+"\n";
+            if(items.length === 0)
+                res += "  - *no loot*";
+        }
+        res += "\n";
+    }else if(ev.type === "loot") {
+        res += "## Example Loot:\n\n";
+        for(let [name, item] of Object.entries(ev.data.items)) {
+            res += "- +"+item.count+" "+item.data.title+" (<code>";
+            res += item.data.icon.replace(/[\\*_]/g, "\\$0")+"</code>)  \n";
+            res += "  "+item.data.desc+"  \n";
+            res += "  **weight**: "+item.data.weight+" units\n";
+        }
+        res += "\n";
     }
     return res;
 }
