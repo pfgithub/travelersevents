@@ -1,6 +1,6 @@
 # the computer
 
-Seen 8 times
+Seen 8 times. Last seen ??.
 
 the desktop is empty except for the recycle bin and one file, called "found.txt".
 

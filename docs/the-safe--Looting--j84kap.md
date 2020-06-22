@@ -1,6 +1,6 @@
 # the safe (Looting)
 
-Seen 1 time
+Seen 1 time. Last seen ??.
 
 the hinges creak surprisingly loudly for such a small thing.
 

@@ -1,6 +1,6 @@
 # shelves of supplies (Looting)
 
-Seen ?? times
+Seen ?? times. Last seen ??.
 
 among the cans of food and gallons of water are scraps worth looking at.
 

@@ -1,6 +1,6 @@
 # a hole in the ground (Looting)
 
-Seen 129108 times
+Seen 132552 times. Last seen 2020-06-22T07:37:33.975Z.
 
 dug with haste.
 
@@ -8,7 +8,7 @@ dug with haste.
 
 ## Example Loot:
 
-- +3 scrap metal (<code>ð</code>)  
+- +2 scrap metal (<code>ð</code>)  
   a few shards of metal. probably can be bent into useful shapes.  
   **weight**: 2 units
 

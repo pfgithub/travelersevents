@@ -1,6 +1,6 @@
 # a cardboard box (Looting)
 
-Seen 11 times
+Seen 11 times. Last seen ??.
 
 in spite of the dying world, the box is clean, and still might have something left.
 

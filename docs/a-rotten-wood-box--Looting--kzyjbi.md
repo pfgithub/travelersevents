@@ -1,6 +1,6 @@
 # a rotten wood box (Looting)
 
-Seen 9 times
+Seen 9 times. Last seen ??.
 
 there's still a few things worth taking in here.
 

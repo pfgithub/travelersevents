@@ -1,6 +1,6 @@
 # a camping tent (Looting)
 
-Seen 1 time
+Seen 1 time. Last seen ??.
 
 a skull pokes out of a sleeping bag, its body wrapped tightly for warmth.
 

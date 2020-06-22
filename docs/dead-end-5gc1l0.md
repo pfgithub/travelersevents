@@ -1,6 +1,6 @@
 # dead end
 
-Seen 13 times
+Seen 13 times. Last seen ??.
 
 water gently spills out of a grate in the ceiling into a deeper pool at the end of the tunnel.
 

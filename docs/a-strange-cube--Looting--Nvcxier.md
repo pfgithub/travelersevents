@@ -1,6 +1,6 @@
 # a strange cube (Looting)
 
-Seen 13 times
+Seen 13 times. Last seen ??.
 
 a perfect cube, cut from some unknown material, juts out from the dead end ahead. it glows purple, its hue shifting slightly as your view of it changes angles, and it hums loudly.
 

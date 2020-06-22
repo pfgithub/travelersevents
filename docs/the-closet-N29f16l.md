@@ -1,6 +1,6 @@
 # the closet
 
-Seen 11 times
+Seen 11 times. Last seen ??.
 
 there's a single cardboard box on the ground with some stuff inside.
 

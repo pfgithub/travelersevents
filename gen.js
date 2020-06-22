@@ -23,9 +23,10 @@ function eventDescription(ev) {
 }
 
 function eventPrint(k, ev) {
+    let lastSeen = ev.latestView ? new Date(ev.latestView).toISOString() : "??";
     let res = "";
     res += "# "+eventTitle(ev) + "\n\n";
-    res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + "\n\n";
+    res += "Seen " + (ev.views || "??") + " time" + (ev.views === 1 ? "" : "s") + ". Last seen "+lastSeen+".\n\n";
     res += eventDescription(ev) + "\n\n";
     if(ev.type === "loot") {
         res += "## Example Loot:\n\n";

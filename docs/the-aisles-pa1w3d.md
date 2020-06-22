@@ -1,6 +1,6 @@
 # the aisles
 
-Seen 11 times
+Seen 11 times. Last seen ??.
 
 the metal cages are open, the glass cages shattered; the remains of the animals once inside are no longer here. aisles dedicated to pet food are empty, but those with toys or bedding are still fully stocked.
 

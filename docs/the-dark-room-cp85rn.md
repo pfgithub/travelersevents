@@ -1,6 +1,6 @@
 # the dark room
 
-Seen 9 times
+Seen 9 times. Last seen ??.
 
 the lever protrudes from the wall unnaturally. it seems makeshift, like it wasn't designed with the rest of the building.
 

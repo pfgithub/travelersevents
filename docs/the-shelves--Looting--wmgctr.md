@@ -1,6 +1,6 @@
 # the shelves (Looting)
 
-Seen 11 times
+Seen 11 times. Last seen ??.
 
 a few cursory items are strewn about, some worth taking.
 

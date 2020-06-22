@@ -1,6 +1,6 @@
 # an old home
 
-Seen 2892 times
+Seen 2957 times. Last seen 2020-06-22T07:21:53.748Z.
 
 the house stands strong, despite the world's decay. the roof, though coated in the soot that layers everything, has no holes. someone could even be still living here.
 

@@ -1,6 +1,6 @@
 # discolored liquid
 
-Seen 13 times
+Seen 13 times. Last seen ??.
 
 the sewage here is tinted gray.
 

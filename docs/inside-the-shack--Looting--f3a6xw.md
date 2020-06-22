@@ -1,6 +1,6 @@
 # inside the shack (Looting)
 
-Seen 7 times
+Seen 7 times. Last seen ??.
 
 maybe there's some supplies inside.
 

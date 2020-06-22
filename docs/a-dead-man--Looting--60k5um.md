@@ -1,6 +1,6 @@
 # a dead man (Looting)
 
-Seen 2 times
+Seen 2 times. Last seen ??.
 
 the shotgun is useless and has no bullets, but his form might conceal something.
 

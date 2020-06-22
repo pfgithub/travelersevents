@@ -1,6 +1,6 @@
 # a plastic container (Looting)
 
-Seen 8 times
+Seen 8 times. Last seen ??.
 
 maybe something useful is inside.
 

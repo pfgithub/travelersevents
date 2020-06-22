@@ -1,6 +1,6 @@
 # homeless bodies (Looting)
 
-Seen 1 time
+Seen 1 time. Last seen ??.
 
 in death, they can no longer hide and protect that which was theirs.
 

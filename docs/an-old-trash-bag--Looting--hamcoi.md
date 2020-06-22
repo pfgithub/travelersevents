@@ -1,6 +1,6 @@
 # an old trash bag (Looting)
 
-Seen 9 times
+Seen 9 times. Last seen ??.
 
 there's some unknown liquid oozing off the plastic, but it's worth a look inside.
 

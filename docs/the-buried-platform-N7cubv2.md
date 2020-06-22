@@ -1,6 +1,6 @@
 # the buried platform
 
-Seen 1 time
+Seen 1 time. Last seen ??.
 
 the exits on this platform are buried in dirt, but the tunnel continues onward.
 
