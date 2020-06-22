@@ -38,6 +38,10 @@ function eventPrint(k, ev) {
         }else
             res += "- **"+option+"**: I have not gone this way yet.\n";
     }
+    if(ev.options.length === 0){
+        res += "- *No options. Strange.*";
+    }
+    res += "\n";
     if(loot.length >= 1 && !(loot[0][0] === "[]" && ev.type !== "loot")) {
         res += "## Example Loot:\n\n";
         let total = loot.reduce((t, b) => t + b[1], 0);
@@ -65,7 +69,8 @@ function eventPrint(k, ev) {
         }
         res += "\n";
     }
-    return res;
+    res += "\n";
+    return res.trim();
 }
 
 (async () => {

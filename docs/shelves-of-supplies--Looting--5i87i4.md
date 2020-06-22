@@ -8,6 +8,7 @@ among the cans of food and gallons of water are scraps worth looking at.
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +1 shotgun (<code>~==</code>)  
@@ -25,4 +26,3 @@ among the cans of food and gallons of water are scraps worth looking at.
 - +2 scrap metal (<code>ð</code>)  
   a few shards of metal. probably can be bent into useful shapes.  
   **weight**: 2 units
-

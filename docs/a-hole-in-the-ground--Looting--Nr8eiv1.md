@@ -10,6 +10,7 @@ dug with haste.
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - 9.14% (153 / 1674) :
@@ -30,4 +31,3 @@ dug with haste.
   - +3 steel shard
 - 8.96% (150 / 1674) :
   - +4 steel shard
-

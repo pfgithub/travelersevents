@@ -8,6 +8,7 @@ there's still a few things worth taking in here.
 
 - **loot**: [the dark room](the-dark-room-cp85rn.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +4 wood plank (<code>/</code>)  
@@ -16,4 +17,3 @@ there's still a few things worth taking in here.
 - +6 scrap metal (<code>ð</code>)  
   a few shards of metal. probably can be bent into useful shapes.  
   **weight**: 2 units
-

@@ -8,6 +8,7 @@ maybe there's some supplies inside.
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +3 rope (<code>~</code>)  
@@ -16,4 +17,3 @@ maybe there's some supplies inside.
 - +3 wire (<code>s</code>)  
   a line of copper wrapped in an insulator to carry electricity.  
   **weight**: 1 units
-

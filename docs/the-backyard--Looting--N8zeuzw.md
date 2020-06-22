@@ -8,6 +8,7 @@ a toy car is overturned in the dirt, ash layered on top of it. there's an open s
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - 3.23% (1 / 31) :
@@ -77,4 +78,3 @@ a toy car is overturned in the dirt, ash layered on top of it. there's an open s
   - +4 scrap metal
 - 6.45% (2 / 31) :
   - +4 scrap metal
-

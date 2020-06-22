@@ -8,6 +8,7 @@ a skull pokes out of a sleeping bag, its body wrapped tightly for warmth.
 
 - **loot**: [the midst of the towers](the-midst-of-the-towers-lxsdpw.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +2 scrap metal (<code>ð</code>)  
@@ -19,4 +20,3 @@ a skull pokes out of a sleeping bag, its body wrapped tightly for warmth.
 - +5 cloth (<code>c</code>)  
   tattered and partially rotted fabric, but combined with others like it, could still be put to use.  
   **weight**: 1 units
-

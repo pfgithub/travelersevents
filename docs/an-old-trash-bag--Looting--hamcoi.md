@@ -10,6 +10,7 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +3 wood plank (<code>/</code>)  
@@ -21,4 +22,3 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 - +1 rusty knife (<code>4</code>)  
   an old butcher's knife, edge rusted away, but still capable of damage.  
   **weight**: 4 units
-

@@ -10,9 +10,9 @@ in spite of the dying world, the box is clean, and still might have something le
 
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
+
 ## Example Loot:
 
 - +1 scrap metal (<code>ð</code>)  
   a few shards of metal. probably can be bent into useful shapes.  
   **weight**: 2 units
-
