@@ -13,6 +13,5 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 
 ## Loot Frequency:
 
-- +100.00% (1/1) chance of:
   - wood plank: x**2**: 100.00% (1/1)
   - scrap metal: x**2**: 100.00% (1/1)

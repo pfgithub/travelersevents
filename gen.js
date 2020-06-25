@@ -53,14 +53,14 @@ function eventPrint(k, ev) {
         let total = loot.reduce((t, b) => t + b[1], 0);
         let itemGroups = {};
         for(let [json, count] of loot) {
-            let key = [...new Set(json.map(item => item.id))].sort().join("%,%");
+            let skip = ev.data.title === "a hole in the ground" ? false : true;
+            let key = skip || [...new Set(json.map(item => item.id))].sort().join("%,%");
             if(!itemGroups[key]) itemGroups[key] = {arr: [], total: 0};
             itemGroups[key].total += count;
             itemGroups[key].arr.push([json, count]);
         }
         for(let [itemStr, values] of Object.entries(itemGroups)) {
             let groupTotal = values.total;
-            let items = itemStr.split("%,%");
             let itemValues = {};
             for(let [json, count] of values.arr) {
                 for(let item of json) {
@@ -72,12 +72,16 @@ function eventPrint(k, ev) {
                         itemValues[item.id].counts.push({count: item.count, chance: count});
                 }
             }
-            res += "- +"+percent(groupTotal, total)+" chance of:\n";
+            if(groupTotal !== total)
+                res += "- +"+percent(groupTotal, total)+" chance of:\n";
             let vlus = Object.entries(itemValues);
             if(vlus.length === 0)
                 res += "  - *No items*\n";
             for(let [_, item] of vlus) {
-                let counts = item.counts.map(a => "x**"+a.count+"**: "+percent(a.chance, groupTotal)+ "").join(", ");
+                let zeroChance = groupTotal - item.counts.reduce((t, c) => t + c.chance, 0);
+                let cnts = zeroChance ? [{count: 0, chance: zeroChance}, ...item.counts] : item.counts;
+                cnts.sort((a, b) => a.count - b.count);
+                let counts = cnts.map(a => "x**"+a.count+"**: "+percent(a.chance, groupTotal)+ "").join(", ");
                 res += "  - "+item.name+": "+counts+"\n";
             }
         }

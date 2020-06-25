@@ -11,7 +11,4 @@ the shotgun is useless and has no ammunition, but his form might conceal somethi
 
 ## Loot Frequency:
 
-- +50.00% (1/2) chance of:
-  - *No items*
-- +50.00% (1/2) chance of:
-  - shotgun shell: x**1**: 100.00% (1/1)
+  - shotgun shell: x**0**: 50.00% (1/2), x**1**: 50.00% (1/2)

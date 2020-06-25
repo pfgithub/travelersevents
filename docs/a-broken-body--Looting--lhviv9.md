@@ -13,7 +13,6 @@ the ruined corpse of a traveler lies on the ground, surrounded neatly by its pos
 
 ## Loot Frequency:
 
-- +100.00% (1/1) chance of:
   - circuit board: x**2**: 100.00% (1/1)
   - crowbar: x**1**: 100.00% (1/1)
   - copper_coil: x**8**: 100.00% (1/1)
