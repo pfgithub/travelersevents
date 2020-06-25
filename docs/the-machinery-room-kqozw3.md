@@ -1,6 +1,6 @@
 # the machinery room
 
-Seen 14 times. Last seen 2020-06-24T12:27:52.055Z.
+Seen 38 times. Last seen 2020-06-25T19:09:35.079Z.
 
 without a city to deliver oil to, nothing in here is very useful. the pipes pump air and drops of forgotten liquids but otherwise stand by, ready for work that won't come. there's a catwalk leading to a door overhead, but its not accessible from down here. a hallway to the side is glowing red.
 

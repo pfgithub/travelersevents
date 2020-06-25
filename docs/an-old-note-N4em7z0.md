@@ -1,6 +1,6 @@
 # an old note
 
-Seen 10 times. Last seen 2020-06-23T04:55:39.297Z.
+Seen 36 times. Last seen 2020-06-25T18:17:12.337Z.
 
 what's visible on the note reads:<span class='doc'>a pity to have been born so late. being forced to grow up at this point in history. humanity near its</span>maybe the upper floor has anything left.
 

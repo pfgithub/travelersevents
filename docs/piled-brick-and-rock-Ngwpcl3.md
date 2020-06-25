@@ -1,6 +1,6 @@
 # piled brick and rock
 
-Seen 13 times. Last seen ??.
+Seen 35 times. Last seen 2020-06-25T18:26:36.107Z.
 
 the path ends with a mound of debris reaching the ceiling. water trickles softly somewhere between the cracks.
 

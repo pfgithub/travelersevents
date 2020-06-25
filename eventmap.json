@@ -30,10 +30,10 @@
 				"lhviv9"
 			]
 		},
-		"views": 3569334,
-		"latestView": 1593076036401,
+		"views": 3601896,
+		"latestView": 1593112329800,
 		"loot": {
-			"[]": 279324
+			"[]": 311886
 		}
 	},
 	"Nr8eiv1": {
@@ -43,15 +43,15 @@
 			"desc": "dug with haste.",
 			"visitdesc": "an old hole, covered by a light layer of ash.",
 			"items": {
-				"scrap_metal": {
+				"copper_ore": {
 					"count": 4,
 					"data": {
-						"name": "scrap_metal",
-						"title": "scrap metal",
+						"name": "copper_ore",
+						"title": "copper ore",
 						"type": "misc",
-						"weight": 2,
-						"icon": "ð",
-						"desc": "a few shards of metal. probably can be bent into useful shapes."
+						"weight": 6,
+						"icon": "&lt;c",
+						"desc": "contains pure copper."
 					}
 				}
 			},
@@ -68,36 +68,37 @@
 				"Nr8eiv1"
 			]
 		},
-		"views": 142177,
-		"latestView": 1593076004868,
+		"views": 143500,
+		"latestView": 1593112284490,
 		"loot": {
-			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 961,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 1894,
-			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":4}]": 983,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":3}]": 956,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 1827,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":4}]": 884,
-			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3}]": 949,
-			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":2}]": 943,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 1860,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 1072,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 2100,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":4}]": 1091,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":3}]": 1058,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 2041,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":4}]": 1007,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3}]": 1064,
+			"[{\"id\":\"copper_ore\",\"name\":\"copper ore\",\"count\":2}]": 1045,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 2102,
 			"[]": 3
 		}
 	},
 	"2d8gx5": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "a walled city",
-				"desc": "a majestic city enclosed in ancient stone rises out of the horizon, its innermost towers piercing the unending clouds. the portion of wall you've approached is dominating and unscathed, but a section a few kilometers to the east looks a little more weathered.",
 				"btns": {
-					"uYHVrCG": {
+					"QD8IoPs": {
 						"text": "the eastern side"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "a walled city",
+				"desc": "a majestic city enclosed in ancient stone rises out of the horizon, its innermost towers piercing the unending clouds. the portion of wall you've approached is dominating and unscathed, but a section a few kilometers to the east looks a little more weathered.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -113,27 +114,28 @@
 				"2d8gx5"
 			]
 		},
-		"views": 3423,
-		"latestView": 1593075901441,
+		"views": 3448,
+		"latestView": 1593112170154,
 		"loot": {
-			"[]": 214
+			"[]": 239
 		}
 	},
 	"Nrj1yat": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the collapsed eastern wall",
-				"desc": "rubble is spread evenly, skewing far into the desert. whatever destroyed it must have come from inside. you can step delicately over the strewn cement and metal to get through. passing around the edge of the wall reveals the great city, its tall towers still relinquishing debris to the strong winds. the clouds are parted at the tip of the highest tower, revealing the slightest hint of blue sky. the ground lowers into a massive lake, the ashen waters covering the base of every tower. the closest structure to you appears to be an oil refinery, its maze of pipes surrounding the inner building.",
 				"btns": {
-					"814hBcG": {
+					"lhXtrpJ": {
 						"text": "swim to the refinery"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the collapsed eastern wall",
+				"desc": "rubble is spread evenly, skewing far into the desert. whatever destroyed it must have come from inside. you can step delicately over the strewn cement and metal to get through. passing around the edge of the wall reveals the great city, its tall towers still relinquishing debris to the strong winds. the clouds are parted at the tip of the highest tower, revealing the slightest hint of blue sky. the ground lowers into a massive lake, the ashen waters covering the base of every tower. the closest structure to you appears to be an oil refinery, its maze of pipes surrounding the inner building.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -145,25 +147,22 @@
 				"Ny87bbi"
 			]
 		},
-		"views": 14,
-		"latestView": 1593001668131,
+		"views": 38,
+		"latestView": 1593112171136,
 		"loot": {
-			"[]": 2
+			"[]": 26
 		}
 	},
 	"Ny87bbi": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "ashen waters",
-				"desc": "you descend into the water, submerging yourself almost entirely, and begin swimming toward the refinery. the water burns lightly, getting worse as you swim on. you can feel the stinging through your clothes, and just as you can feel your outer layer of skin begin withering, you arrive at the refinery. the wire fence that blocks it has mostly fallen, and after picking through it you find an exit from the building back here, chains and a warning sign blocking the way. there's probably another way in further around too.",
-				"req_met_desc": "you descend into the water, submerging yourself almost entirely, and begin swimming toward the refinery. the water burns lightly, getting worse as you swim on. you can feel the stinging through your clothes, and just as you can feel your outer layer of skin begin withering, you arrive at the refinery. the wire fence that blocks it has mostly fallen, and after picking through it you find an exit from the building back here. its chains have fallen to the ground, and the door swings loosely with the wind.",
 				"btns": {
-					"BqjAsm0": {
+					"duOVjp3": {
 						"text": "circle the perimeter"
 					},
-					"nbZ6Gnl": {
+					"b5K1Rjg": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -185,7 +184,10 @@
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "ashen waters",
+				"desc": "you descend into the water, submerging yourself almost entirely, and begin swimming toward the refinery. the water burns lightly, getting worse as you swim on. you can feel the stinging through your clothes, and just as you can feel your outer layer of skin begin withering, you arrive at the refinery. the wire fence that blocks it has mostly fallen, and after picking through it you find an exit from the building back here, chains and a warning sign blocking the way. there's probably another way in further around too.",
+				"req_met_desc": "you descend into the water, submerging yourself almost entirely, and begin swimming toward the refinery. the water burns lightly, getting worse as you swim on. you can feel the stinging through your clothes, and just as you can feel your outer layer of skin begin withering, you arrive at the refinery. the wire fence that blocks it has mostly fallen, and after picking through it you find an exit from the building back here. its chains have fallen to the ground, and the door swings loosely with the wind."
 			}
 		},
 		"options": [
@@ -198,30 +200,31 @@
 				"m15wlz"
 			]
 		},
-		"views": 14,
-		"latestView": 1593001669122,
+		"views": 38,
+		"latestView": 1593112172134,
 		"loot": {
-			"[]": 2
+			"[]": 26
 		}
 	},
 	"m15wlz": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the perimeter",
-				"desc": "it's clear why the wire fence was here; climbing over all the intersecting pipes and machinery proves to be more difficult than it seemed. after a while you arrive at a road, pipes still reaching overhead. one path leads left to an opening in the fence, toward the city. to the right is what appears to be the main entrance.",
 				"btns": {
-					"WRF8bZs": {
+					"OLmcqUk": {
 						"text": "the main entrance"
 					},
-					"gbddGSX": {
+					"3yxaush": {
 						"text": "toward the city"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the perimeter",
+				"desc": "it's clear why the wire fence was here; climbing over all the intersecting pipes and machinery proves to be more difficult than it seemed. after a while you arrive at a road, pipes still reaching overhead. one path leads left to an opening in the fence, toward the city. to the right is what appears to be the main entrance.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -235,21 +238,19 @@
 				"m15wlz"
 			]
 		},
-		"views": 14,
-		"latestView": 1593001670090,
+		"views": 38,
+		"latestView": 1593112173105,
 		"loot": {
-			"[]": 2
+			"[]": 26
 		}
 	},
 	"Nat5qsg": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the main area",
-				"desc": "you slide the glass entrance open, and are greeted by deep darkness, broken only by some dim light escaping through the ceiling in the distance. running your hands along the wall, you find a switch and activate it. the lights overhead flicker on, washing the room in an eerie green, and the refinery comes to life as an emergency generator kicks on in the distance, humming intensely. there's a rotten wood desk in front of a wall that looks like it once held a logo; despite seeming to be the main entrance, the area is not grand or well-presented. this was a place for work, not grand advertising gestures. there's two staircases to either side, but both have withered over time, making the upper levels inaccessible. across the room from the main desk is a maintenance closet, and a door labeled with a hazard symbol. there's also an opening that leads to an area with many pipes and different machines.",
 				"btns": {
-					"DAp6aXR": {
+					"Pu310tx": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -268,16 +269,19 @@
 						"req_text": "unlock maintenance closet",
 						"text": "open maintenance closet"
 					},
-					"JL45vP0": {
+					"JL1zUqv": {
 						"text": "the hazard door"
 					},
-					"p80HGHL": {
+					"QBcVW5w": {
 						"text": "the machinery room"
 					},
-					"gbddGSX": {
+					"3yxaush": {
 						"text": "back out toward the city"
 					}
-				}
+				},
+				"title": "the main area",
+				"desc": "you slide the glass entrance open, and are greeted by deep darkness, broken only by some dim light escaping through the ceiling in the distance. running your hands along the wall, you find a switch and activate it. the lights overhead flicker on, washing the room in an eerie green, and the refinery comes to life as an emergency generator kicks on in the distance, humming intensely. there's a rotten wood desk in front of a wall that looks like it once held a logo; despite seeming to be the main entrance, the area is not grand or well-presented. this was a place for work, not grand advertising gestures. there's two staircases to either side, but both have withered over time, making the upper levels inaccessible. across the room from the main desk is a maintenance closet, and a door labeled with a hazard symbol. there's also an opening that leads to an area with many pipes and different machines.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -295,27 +299,28 @@
 				"Nq6j0lu"
 			]
 		},
-		"views": 18,
-		"latestView": 1593001673057,
+		"views": 66,
+		"latestView": 1593112176075,
 		"loot": {
-			"[]": 4
+			"[]": 52
 		}
 	},
 	"kqozw3": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the machinery room",
-				"desc": "without a city to deliver oil to, nothing in here is very useful. the pipes pump air and drops of forgotten liquids but otherwise stand by, ready for work that won't come. there's a catwalk leading to a door overhead, but its not accessible from down here. a hallway to the side is glowing red.",
 				"btns": {
-					"rEUCfxW": {
+					"YhHWJNu": {
 						"text": "the red corridor"
 					},
-					"WRF8bZs": {
+					"OLmcqUk": {
 						"text": "the main area"
 					}
-				}
+				},
+				"title": "the machinery room",
+				"desc": "without a city to deliver oil to, nothing in here is very useful. the pipes pump air and drops of forgotten liquids but otherwise stand by, ready for work that won't come. there's a catwalk leading to a door overhead, but its not accessible from down here. a hallway to the side is glowing red.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -328,10 +333,10 @@
 				"Nat5qsg"
 			]
 		},
-		"views": 14,
-		"latestView": 1593001672055,
+		"views": 38,
+		"latestView": 1593112175079,
 		"loot": {
-			"[]": 2
+			"[]": 26
 		}
 	},
 	"Nfn7g21": {
@@ -625,18 +630,19 @@
 	"Nq6j0lu": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the asphalt trail",
-				"desc": "you walk along the small road toward the city, underneath the dancing pipes, and are eventually met by a wide, empty parking lot. just past it is a bridge.",
 				"btns": {
-					"Bru08OP": {
+					"1vYwtft": {
 						"text": "the bridge"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the asphalt trail",
+				"desc": "you walk along the small road toward the city, underneath the dancing pipes, and are eventually met by a wide, empty parking lot. just past it is a bridge.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -649,30 +655,31 @@
 				"Nq6j0lu"
 			]
 		},
-		"views": 14,
-		"latestView": 1593001674049,
+		"views": 38,
+		"latestView": 1593112177043,
 		"loot": {
-			"[]": 2
+			"[]": 26
 		}
 	},
 	"N97cep7": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "a run-down shack",
-				"desc": "a short structure stands ahead, and a pile of rubble rests near it. seems like the house this belonged to was destroyed.",
 				"btns": {
-					"E27b6mV": {
+					"FohZKFM": {
 						"text": "check rubble"
 					},
-					"bgploCK": {
+					"YOIlAOk": {
 						"text": "check shack"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "a run-down shack",
+				"desc": "a short structure stands ahead, and a pile of rubble rests near it. seems like the house this belonged to was destroyed.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -689,10 +696,10 @@
 				"N97cep7"
 			]
 		},
-		"views": 3257,
-		"latestView": 1593075671713,
+		"views": 3292,
+		"latestView": 1593112018281,
 		"loot": {
-			"[]": 255
+			"[]": 290
 		}
 	},
 	"f3a6xw": {
@@ -702,36 +709,55 @@
 			"desc": "maybe there's some supplies inside.",
 			"visitdesc": "",
 			"items": {
-				"rope": {
-					"count": 3,
+				"scrap_metal": {
+					"count": 1,
 					"data": {
-						"name": "rope",
-						"title": "rope",
+						"name": "scrap_metal",
+						"title": "scrap metal",
 						"type": "misc",
-						"weight": 3,
-						"icon": "~",
-						"desc": "a small section of rope, its ends frayed."
+						"weight": 2,
+						"icon": "ð",
+						"desc": "a few shards of metal. probably can be bent into useful shapes."
 					}
 				},
-				"wire": {
-					"count": 3,
+				"shovel": {
+					"count": 1,
 					"data": {
-						"name": "wire",
-						"title": "wire",
-						"type": "misc",
-						"weight": 1,
-						"icon": "s",
-						"desc": "a line of copper wrapped in an insulator to carry electricity.",
+						"name": "shovel",
+						"title": "shovel",
+						"type": "tool",
+						"weight": 7,
+						"icon": "––D",
+						"desc": "digs holes. could also be used as a weapon in a pinch.",
 						"craft": true,
-						"craft_time": 8,
+						"craft_time": 20,
 						"craft_data": {
-							"copper_coil": {
+							"wood_stick": {
 								"count": 1,
-								"title": "copper coil"
+								"title": "wood plank"
 							},
-							"cloth": {
-								"count": 1,
-								"title": "cloth"
+							"scrap_metal": {
+								"count": 3,
+								"title": "scrap metal"
+							}
+						},
+						"weapon": true,
+						"weapon_data": {
+							"dmg": 21,
+							"sp": 20
+						},
+						"func": true,
+						"func_desc": "a simple shovel, capable of digging a few feet into the ground, or filling in a hole.",
+						"func_actions": {
+							"dig": {
+								"server": "dig",
+								"client": "ENGINE.log('digging...');",
+								"btn_text": "dig"
+							},
+							"fill": {
+								"server": "fill",
+								"client": "",
+								"btn_text": "fill"
 							}
 						}
 					}
@@ -748,27 +774,59 @@
 				"travel"
 			]
 		},
-		"views": 7
+		"views": 41,
+		"latestView": 1593112019209,
+		"loot": {
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"bolt_cutters\",\"name\":\"bolt cutters\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2},{\"id\":\"crowbar\",\"name\":\"crowbar\",\"count\":1},{\"id\":\"bolt_cutters\",\"name\":\"bolt cutters\",\"count\":1},{\"id\":\"axe\",\"name\":\"axe\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2}]": 1,
+			"[{\"id\":\"wire\",\"name\":\"wire\",\"count\":4},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2},{\"id\":\"plastic\",\"name\":\"plastic pieces\",\"count\":1},{\"id\":\"crowbar\",\"name\":\"crowbar\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":4},{\"id\":\"plastic\",\"name\":\"plastic pieces\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"plastic\",\"name\":\"plastic pieces\",\"count\":2}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"machete\",\"name\":\"machete\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":4}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2},{\"id\":\"plastic\",\"name\":\"plastic pieces\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1},{\"id\":\"bolt_cutters\",\"name\":\"bolt cutters\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"crowbar\",\"name\":\"crowbar\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3},{\"id\":\"plastic\",\"name\":\"plastic pieces\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 2,
+			"[{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"machete\",\"name\":\"machete\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1}]": 1,
+			"[{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 1
+		}
 	},
 	"Nwbfckh": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a desolate city",
+				"desc": "red skyscrapers rise out of the wasteland, their strong metal beams exposed and oxidized. the soot-caked wasteland turns into hard asphalt, rising over slums that begin to poke out of the sand. an exit curves away to your right, but otherwise, the highway continues onward.",
 				"btns": {
-					"PCime19": {
+					"1sTVxkN": {
 						"text": "the slums"
 					},
-					"hpDkzGL": {
+					"XVfECpL": {
 						"text": "the highway"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a desolate city",
-				"desc": "red skyscrapers rise out of the wasteland, their strong metal beams exposed and oxidized. the soot-caked wasteland turns into hard asphalt, rising over slums that begin to poke out of the sand. an exit curves away to your right, but otherwise, the highway continues onward.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -785,34 +843,33 @@
 				"Nwbfckh"
 			]
 		},
-		"views": 3288,
-		"latestView": 1593075690441,
+		"views": 3301,
+		"latestView": 1593112302284,
 		"loot": {
-			"[]": 225
+			"[]": 238
 		}
 	},
 	"lxsdpw": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the midst of the towers",
+				"desc": "the buildings are unfathomably tall, cutting through the ashen atmosphere. their decorative exteriors have been worn away by something powerful; what was once colorful paint and detailed engravings are now simply blasted steel, leaving the skeletons bare and open. from certain angles you can see straight through each structure. you arrive at an intersection, where an entrance to a subway to your right leads underground. across the way is a large blue tent, pinned to the street, its opening flapping in the wind. to the left, you notice one of the bare skyscrapers has an intact staircase a few layers into its bones.",
 				"btns": {
-					"ciH0XFi": {
+					"2RreeuU": {
 						"text": "the subway"
 					},
-					"RDMDdHL": {
+					"lV83K4g": {
 						"text": "the tent"
 					},
-					"loJjxXS": {
+					"U1yuOpA": {
 						"text": "the skyscraper"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "the midst of the towers",
-				"desc": "the buildings are unfathomably tall, cutting through the ashen atmosphere. their decorative exteriors have been worn away by something powerful; what was once colorful paint and detailed engravings are now simply blasted steel, leaving the skeletons bare and open. from certain angles you can see straight through each structure. you arrive at an intersection, where an entrance to a subway to your right leads underground. across the way is a large blue tent, pinned to the street, its opening flapping in the wind. to the left, you notice one of the bare skyscrapers has an intact staircase a few layers into its bones.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -836,28 +893,27 @@
 				"travel"
 			]
 		},
-		"views": 31,
-		"latestView": 1593023139157,
+		"views": 57,
+		"latestView": 1593112313114,
 		"loot": {
-			"[]": 2
+			"[]": 28
 		}
 	},
 	"Nwvszfr": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"FcrpK2m": {
-						"text": "the corner"
-					},
-					"h6daijP": {
-						"text": "go back"
-					}
-				},
 				"title": "the tower's bones",
 				"desc": "you navigate through the building's supports and to the staircase, which leads to a bare second floor. soot cakes the beams of steel, and your footprints are quickly blown away by the soft breeze escaping from outside. in one corner of the structure, a wall hides the sky beyond.",
-				"req_met_desc": null
+				"btns": {
+					"jh1TviX": {
+						"text": "the corner"
+					},
+					"XVfECpL": {
+						"text": "go back"
+					}
+				}
 			}
 		},
 		"options": [
@@ -869,31 +925,30 @@
 				"Nnkh4ub"
 			]
 		},
-		"views": 15,
-		"latestView": 1593023130283,
+		"views": 28,
+		"latestView": 1593112304228,
 		"loot": {
-			"[]": 1
+			"[]": 14
 		}
 	},
 	"Nnkh4ub": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"ISjryPl": {
-						"text": "the body"
-					},
-					"ZYZoEcN": {
-						"text": "the desk"
-					},
-					"h6daijP": {
-						"text": "go back"
-					}
-				},
 				"title": "the ruined office",
 				"desc": "an office room is covered in shards of glass, shattered inward from where windows used to be. blood coats the wall behind the desk, and a dead body, its flesh withered away, is sprawled against the chair without a head. in its limp arms, a shotgun rests, its wood rotted and metal rusted. on top of the desk is a short handwritten note.<span class='doc'>they found me. i see the lights of their cars outside my office. forgive me that i had to leave you all this way. i hope you can find someone else to supply you. don't let them win.</span>it might be worth a look around to see if anything is left.",
-				"req_met_desc": null
+				"btns": {
+					"XzrGKma": {
+						"text": "the body"
+					},
+					"UKtYBmN": {
+						"text": "the desk"
+					},
+					"XVfECpL": {
+						"text": "go back"
+					}
+				}
 			}
 		},
 		"options": [
@@ -915,10 +970,10 @@
 				"Nnkh4ub"
 			]
 		},
-		"views": 60,
-		"latestView": 1593023138168,
+		"views": 112,
+		"latestView": 1593112312138,
 		"loot": {
-			"[]": 4
+			"[]": 56
 		}
 	},
 	"60k5um": {
@@ -945,10 +1000,13 @@
 	"jw4x17": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "under the desk",
+				"desc": "the drawers have been cleared but beneath the desk is a small black safe, its paint slightly chipped with rust. there can't be much room for something inside.",
+				"req_met_desc": "beneath the desk is a small black safe, its paint slightly chipped with rust. a black hole has been seared through its small door, leaving it open on its hinges.",
 				"btns": {
-					"b9X3BK3": {
+					"lHwgBQD": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -967,16 +1025,13 @@
 						"req_text": "break it open",
 						"text": "look inside"
 					},
-					"FcrpK2m": {
+					"jh1TviX": {
 						"text": "the rest of the room"
 					},
-					"h6daijP": {
+					"XVfECpL": {
 						"text": "go back"
 					}
-				},
-				"title": "under the desk",
-				"desc": "the drawers have been cleared but beneath the desk is a small black safe, its paint slightly chipped with rust. there can't be much room for something inside.",
-				"req_met_desc": "beneath the desk is a small black safe, its paint slightly chipped with rust. a black hole has been seared through its small door, leaving it open on its hinges."
+				}
 			}
 		},
 		"options": [
@@ -993,10 +1048,10 @@
 				"Nnkh4ub"
 			]
 		},
-		"views": 29,
-		"latestView": 1593023137180,
+		"views": 55,
+		"latestView": 1593112311235,
 		"loot": {
-			"[]": 2
+			"[]": 28
 		}
 	},
 	"j84kap": {
@@ -1330,19 +1385,18 @@
 	"jpn4ox": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a childcare center",
+				"desc": "asphalt escapes beneath the ashen sand and leads to a single building, standing alone among a strip of collapsed structures. a sign over the glass doors indicates it was once a place where parents would leave their children during working hours. graffiti coats the walls, most of it too faded to read, but one mural states \"it was them all along\".",
 				"btns": {
-					"WQPZ3Vq": {
+					"st5L9L7": {
 						"text": "look inside"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a childcare center",
-				"desc": "asphalt escapes beneath the ashen sand and leads to a single building, standing alone among a strip of collapsed structures. a sign over the glass doors indicates it was once a place where parents would leave their children during working hours. graffiti coats the walls, most of it too faded to read, but one mural states \"it was them all along\".",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -1358,10 +1412,10 @@
 				"jpn4ox"
 			]
 		},
-		"views": 3281,
-		"latestView": 1593075334686,
+		"views": 3313,
+		"latestView": 1593110450535,
 		"loot": {
-			"[]": 264
+			"[]": 296
 		}
 	},
 	"xqyqbv": {
@@ -1372,10 +1426,10 @@
 				"title": "an empty waiting room",
 				"desc": "the glass door creaks open to reveal a colorful room, with posters of cartoon characters peeling off the walls. the chairs in the lobby are still aligned neatly, and papers still rest peacefully on the receptionist's desk. someone could have been here as recently as yesterday. there's a few doors against the walls, and a short hallway that leads to a kitchen and maintenance area.",
 				"btns": {
-					"sOPQC7N": {
+					"jnXFzDq": {
 						"text": "the front desk"
 					},
-					"TVRwdjP": {
+					"zOXfP8f": {
 						"text": "the other rooms"
 					},
 					"__leave__": {
@@ -1395,7 +1449,11 @@
 				"xqyqbv"
 			]
 		},
-		"views": 15
+		"views": 45,
+		"latestView": 1593110451552,
+		"loot": {
+			"[]": 30
+		}
 	},
 	"ettm87": {
 		"type": "event",
@@ -1405,10 +1463,10 @@
 				"title": "the front desk",
 				"desc": "the papers behind the desk are strewn wildly, as though someone left in a hurry. a light on the monitor is blinking softly, and tapping the keyboard wakes the computer up. an email is open on the screen, unfinished and unsent. there are about forty addresses this would be sent to.<span class='doc'>attention parents: due to the recent rioting and controversies, we have decided to close the business permanently. please keep your children safe at home, and don't let them leave until the public outcry starts to ...</span>the network connection is offline, the rest of the inbox is inaccessible.",
 				"btns": {
-					"TVRwdjP": {
+					"zOXfP8f": {
 						"text": "the other rooms"
 					},
-					"RPZTZzt": {
+					"f6utXzb": {
 						"has_req": true,
 						"hide_req": true,
 						"req_for_all": true,
@@ -1444,7 +1502,11 @@
 				"gtytm1"
 			]
 		},
-		"views": 15
+		"views": 45,
+		"latestView": 1593110452519,
+		"loot": {
+			"[]": 30
+		}
 	},
 	"gtytm1": {
 		"type": "event",
@@ -1454,7 +1516,7 @@
 				"title": "the other rooms",
 				"desc": "each room is a different color, with walls plastered with historical facts, simple math, or english phrases. even in the dark, with little escaping through the windows, the bright colors are a stark contrast to the rest of the world. the desks are still organized, the chairs still in order. the boards on the walls have been wiped clean. there's still toys and instruments and writing utensils in these rooms, but otherwise nothing useful.",
 				"btns": {
-					"sOPQC7N": {
+					"jnXFzDq": {
 						"text": "the front desk"
 					},
 					"__leave__": {
@@ -1472,7 +1534,11 @@
 				"travel"
 			]
 		},
-		"views": 15
+		"views": 45,
+		"latestView": 1593110453518,
+		"loot": {
+			"[]": 30
+		}
 	},
 	"Nyvba56": {
 		"type": "event",
@@ -1482,7 +1548,7 @@
 				"title": "a low home",
 				"desc": "the simple structure juts out of the landscape like a raw bone, short and worn by time. the door is chained shut, but the one window to the side is long shattered.",
 				"btns": {
-					"KQXan6H": {
+					"A8oHdSZ": {
 						"text": "climb inside"
 					},
 					"__leave__": {
@@ -1503,10 +1569,10 @@
 				"hbfou6"
 			]
 		},
-		"views": 3204,
-		"latestView": 1593075893558,
+		"views": 3232,
+		"latestView": 1593109243149,
 		"loot": {
-			"[]": 259
+			"[]": 287
 		}
 	},
 	"Npxhk2u": {
@@ -1518,7 +1584,7 @@
 				"desc": "there's a unique odor in the air as you enter the house, the door clattering off its hinges. a once comfortable home has fallen to now-dead insects. all the furniture was removed from the living room, scrapes still marking the floor from when they were stolen. a light flickers in the kitchen.",
 				"visited": "a once comfortable home has fallen to now-dead insects. the door has fallen from its hinges and lays out in the open, covering the stairs. there is little ash settled on it compared to the rest of the structure; someone was here recently. after walking inside, you notice a light flickering in the kitchen.",
 				"btns": {
-					"Et6kUlD": {
+					"YC2jxH5": {
 						"text": "the kitchen"
 					},
 					"__leave__": {
@@ -1540,10 +1606,10 @@
 				"4tv44d"
 			]
 		},
-		"views": 3310,
-		"latestView": 1593074764257,
+		"views": 3337,
+		"latestView": 1593109030372,
 		"loot": {
-			"[]": 250
+			"[]": 277
 		}
 	},
 	"g1m70n": {
@@ -1554,7 +1620,7 @@
 				"title": "a withered city",
 				"desc": "sprawling skyscrapers tower overhead, triumphed only by the massive sinkhole that has swallowed every road in sight. smaller buildings have collapsed into it, spilling rubble everywhere, while the bigger ones' support beams are exposed to the open air. the hole is long and wide, encompassing most of the city from where you stand, but it doesn't seem to be too deep. as you walk forward, you can see a path is made through some cracked roads laying over the debris toward an underground tunnel.",
 				"btns": {
-					"6bCGwzY": {
+					"IBOBNwG": {
 						"text": "the tunnel"
 					},
 					"__leave__": {
@@ -1577,28 +1643,27 @@
 				"g1m70n"
 			]
 		},
-		"views": 3367,
-		"latestView": 1593075104104,
+		"views": 3391,
+		"latestView": 1593109585207,
 		"loot": {
-			"[]": 235
+			"[]": 259
 		}
 	},
 	"Ne68x5o": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the tunnel",
+				"desc": "you can see a murky liquid gently trickling out of the tunnel as you approach it, the towers rising higher overhead. the tunnel is rectangular, with an indent at the bottom to let the liquid leak out. it's the entry to a sewage system, its sparse fluorescent lights somehow still glowing despite the destruction.",
 				"btns": {
-					"Aegj71M": {
+					"mj8Aolc": {
 						"text": "enter sewage system"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "the tunnel",
-				"desc": "you can see a murky liquid gently trickling out of the tunnel as you approach it, the towers rising higher overhead. the tunnel is rectangular, with an indent at the bottom to let the liquid leak out. it's the entry to a sewage system, its sparse fluorescent lights somehow still glowing despite the destruction.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -1611,15 +1676,21 @@
 				"Ne68x5o"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109586198,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"Naecfdb": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "dark tunnels",
+				"desc": "despite being activated, the fluorescent bulbs do not give off much light. it's just enough to see the branching paths of the system, the dark tunnels breaking off in three different directions.",
 				"btns": {
-					"KPcJhMB": {
+					"H0gO6B2": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -1633,7 +1704,7 @@
 						"req_text": "go west",
 						"text": "blocked by rubble"
 					},
-					"vQEqtqJ": {
+					"CuKinPv": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -1647,16 +1718,13 @@
 						"req_text": "go north",
 						"text": "blocked by collapsed hole"
 					},
-					"ex6jeeG": {
+					"Dl06h6u": {
 						"text": "go east"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "dark tunnels",
-				"desc": "despite being activated, the fluorescent bulbs do not give off much light. it's just enough to see the branching paths of the system, the dark tunnels breaking off in three different directions.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -1671,21 +1739,24 @@
 				"Naecfdb"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109587196,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"Nnhj3v9": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"R5kqXs6": {
-						"text": "continue"
-					}
-				},
 				"title": "the east path",
 				"desc": "the tunnel bends down, the water flowing freely with it. it gradually becomes steeper, the air growing colder, and the smooth cement floor growing more slick. after a few more steps, your feet slip out from beneath you, sending you crashing to the floor and sliding for several seconds down the tube until it levels again, your body finally skidding to a stop. the ground is so slick with condensation that there would be no way back up.",
-				"req_met_desc": null
+				"btns": {
+					"18OmOrd": {
+						"text": "continue"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1697,27 +1768,30 @@
 				"Nnhj3v9"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109588176,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"Ntmsnt3": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"Uffqc8r": {
-						"text": "north"
-					},
-					"ULWyZPc": {
-						"text": "east"
-					},
-					"pOlFZSU": {
-						"text": "south"
-					}
-				},
 				"title": "a frigid intersection",
 				"desc": "the tunnel diverges in three directions, the bitter light of the fluorescent tubes makes the sewer feel colder. a low-pitched hum comes from the north path.",
-				"req_met_desc": null
+				"btns": {
+					"hjSIT0g": {
+						"text": "north"
+					},
+					"ZBrvrz3": {
+						"text": "east"
+					},
+					"QU4wyeH": {
+						"text": "south"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1739,21 +1813,24 @@
 				"Ntmsnt3"
 			]
 		},
-		"views": 39
+		"views": 105,
+		"latestView": 1593109593110,
+		"loot": {
+			"[]": 66
+		}
 	},
 	"5gc1l0": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"R5kqXs6": {
-						"text": "west"
-					}
-				},
 				"title": "dead end",
 				"desc": "water gently spills out of a grate in the ceiling into a deeper pool at the end of the tunnel.",
-				"req_met_desc": null
+				"btns": {
+					"18OmOrd": {
+						"text": "west"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1764,7 +1841,11 @@
 				"Ntmsnt3"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109590150,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"Nvcxier": {
 		"type": "loot",
@@ -1785,7 +1866,7 @@
 				}
 			},
 			"item_limit": 0,
-			"visited": true
+			"visited": false
 		},
 		"options": [
 			"loot",
@@ -1797,27 +1878,30 @@
 				"Nvcxier"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109592080,
+		"loot": {
+			"[{\"id\":\"alien_fragment\",\"name\":\"unknown material fragment\",\"count\":1}]": 22
+		}
 	},
 	"Ntslvj2": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"R5kqXs6": {
-						"text": "north"
-					},
-					"b2JKKzs": {
-						"text": "east"
-					},
-					"Z6uTxjE": {
-						"text": "south"
-					}
-				},
 				"title": "discolored liquid",
 				"desc": "the sewage here is tinted gray.",
-				"req_met_desc": null
+				"btns": {
+					"18OmOrd": {
+						"text": "north"
+					},
+					"dJ2Dv4O": {
+						"text": "east"
+					},
+					"um5FMQH": {
+						"text": "south"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1830,27 +1914,30 @@
 				"gtiyc9"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109594089,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"gtiyc9": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"pOlFZSU": {
-						"text": "north"
-					},
-					"t7Ej6a7": {
-						"text": "south"
-					},
-					"tx17M4S": {
-						"text": "west"
-					}
-				},
 				"title": "dim daylight",
 				"desc": "the west path curves away, but the walls reflect the dim light of the outer atmosphere. the water spilling in from that direction is thick with ash.",
-				"req_met_desc": null
+				"btns": {
+					"QU4wyeH": {
+						"text": "north"
+					},
+					"sNQKKkc": {
+						"text": "south"
+					},
+					"Hx0w2jd": {
+						"text": "west"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1867,21 +1954,24 @@
 				"7mofgw"
 			]
 		},
-		"views": 26
+		"views": 70,
+		"latestView": 1593109597091,
+		"loot": {
+			"[]": 44
+		}
 	},
 	"Ngwpcl3": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"Z6uTxjE": {
-						"text": "north"
-					}
-				},
 				"title": "piled brick and rock",
 				"desc": "the path ends with a mound of debris reaching the ceiling. water trickles softly somewhere between the cracks.",
-				"req_met_desc": null
+				"btns": {
+					"um5FMQH": {
+						"text": "north"
+					}
+				}
 			}
 		},
 		"options": [
@@ -1893,24 +1983,27 @@
 				"Ngwpcl3"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109596107,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"7mofgw": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "outside",
+				"desc": "the tunnel curves upward and into the open air, at the edge of a road leading out of the city. the sinkhole has just barely permitted this exit to exist; it's surrounded neatly by tall piles of rock and brick. the road disappears under the sand in the distance, the wasteland welcoming you back.",
 				"btns": {
-					"Z6uTxjE": {
+					"um5FMQH": {
 						"text": "east"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "outside",
-				"desc": "the tunnel curves upward and into the open air, at the edge of a road leading out of the city. the sinkhole has just barely permitted this exit to exist; it's surrounded neatly by tall piles of rock and brick. the road disappears under the sand in the distance, the wasteland welcoming you back.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -1923,7 +2016,11 @@
 				"7mofgw"
 			]
 		},
-		"views": 13
+		"views": 35,
+		"latestView": 1593109598066,
+		"loot": {
+			"[]": 22
+		}
 	},
 	"N86n0fb": {
 		"type": "event",
@@ -1933,7 +2030,7 @@
 				"title": "a church",
 				"desc": "a tall but thin building is just ahead, a cross atop its steeple and double doors shut tight.",
 				"btns": {
-					"aP1PRbq": {
+					"djNDcAd": {
 						"text": "investigate"
 					},
 					"__leave__": {
@@ -1955,27 +2052,28 @@
 				"cxotkj"
 			]
 		},
-		"views": 3279,
-		"latestView": 1593074021232,
+		"views": 3308,
+		"latestView": 1593112330846,
 		"loot": {
-			"[]": 220
+			"[]": 249
 		}
 	},
 	"Nkx66dg": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "an old home",
-				"desc": "the house stands strong, despite the world's decay. the roof, though coated in the soot that layers everything, has no holes. someone could even be still living here.",
 				"btns": {
-					"ncceCQL": {
+					"coPXywn": {
 						"text": "enter"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "an old home",
+				"desc": "the house stands strong, despite the world's decay. the roof, though coated in the soot that layers everything, has no holes. someone could even be still living here.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -1992,19 +2090,22 @@
 				"Nkx66dg"
 			]
 		},
-		"views": 3163,
-		"latestView": 1593074111931,
+		"views": 3187,
+		"latestView": 1593111383793,
 		"loot": {
-			"[]": 240
+			"[]": 264
 		}
 	},
 	"N51ipt6": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a garage",
+				"desc": "a row of tall garage doors stand indented into the short building, boarded over by wood, chains, and threatening signs. the chains cover a glass door, but with the right tool, it might be possible to break through.",
+				"req_met_desc": "a row of tall garage doors stand indenting into a short building, boarded over by wood, chains, and threatening signs. the chains over the glass door have been snapped, leaving it wide open.",
 				"btns": {
-					"piTYHH4": {
+					"DYcXpA9": {
 						"has_req": true,
 						"hide_req": false,
 						"req_for_all": false,
@@ -2026,10 +2127,7 @@
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a garage",
-				"desc": "a row of tall garage doors stand indented into the short building, boarded over by wood, chains, and threatening signs. the chains cover a glass door, but with the right tool, it might be possible to break through.",
-				"req_met_desc": "a row of tall garage doors stand indenting into a short building, boarded over by wood, chains, and threatening signs. the chains over the glass door have been snapped, leaving it wide open."
+				}
 			}
 		},
 		"options": [
@@ -2041,10 +2139,10 @@
 				"travel"
 			]
 		},
-		"views": 3297,
-		"latestView": 1593075457889,
+		"views": 3325,
+		"latestView": 1593108014190,
 		"loot": {
-			"[]": 244
+			"[]": 272
 		}
 	},
 	"Nrokoq0": {
@@ -2055,7 +2153,7 @@
 				"title": "a humble residence",
 				"desc": "a short structure, weathered from time, is barely noticeable among the dead trees in the wasteland. the knob has been broken off the front door, leaving it to swing freely in the wind.",
 				"btns": {
-					"iMIAeOt": {
+					"cGmOLHc": {
 						"text": "enter"
 					},
 					"__leave__": {
@@ -2078,32 +2176,31 @@
 				"Nrokoq0"
 			]
 		},
-		"views": 3277,
-		"latestView": 1593073651833,
+		"views": 3303,
+		"latestView": 1593110155843,
 		"loot": {
-			"[]": 239
+			"[]": 265
 		}
 	},
 	"Nqiyaxk": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a cabin",
+				"desc": "a small cabin stands weak against the withered wasteland. termites have eaten the front wall away, rusted hinges the only thing that indicate a door was once here. the floor inside seems unstable.",
+				"visited": "a small cabin stands weak against the withered wasteland. termites have eaten the wall away, rusted hinges the only thing that indicate a door was once here. the floor inside has crashed away, revealing a dull concrete basement.",
 				"btns": {
-					"0XXK37s": {
+					"X2rgrfV": {
 						"text": "enter"
 					},
-					"tBoAtH5": {
+					"DiWBwUd": {
 						"text": "check the back"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a cabin",
-				"desc": "a small cabin stands weak against the withered wasteland. termites have eaten the front wall away, rusted hinges the only thing that indicate a door was once here. the floor inside seems unstable.",
-				"req_met_desc": null,
-				"visited": "a small cabin stands weak against the withered wasteland. termites have eaten the wall away, rusted hinges the only thing that indicate a door was once here. the floor inside has crashed away, revealing a dull concrete basement."
+				}
 			}
 		},
 		"options": [
@@ -2120,10 +2217,10 @@
 				"Njlha1w"
 			]
 		},
-		"views": 3382,
-		"latestView": 1593072217869,
+		"views": 3415,
+		"latestView": 1593111639985,
 		"loot": {
-			"[]": 295
+			"[]": 328
 		}
 	},
 	"N4euq5v": {
@@ -2134,7 +2231,7 @@
 				"title": "a barn",
 				"desc": "once used for housing farm supplies, a barn with chipping paint now rests with its large doors wide open. peering inside, it looks like someone is standing there, watching you as you walk closer.",
 				"btns": {
-					"Ilm3jJV": {
+					"RJ8Z8PH": {
 						"text": "enter"
 					},
 					"__leave__": {
@@ -2156,28 +2253,29 @@
 				"m45mb0"
 			]
 		},
-		"views": 3134,
-		"latestView": 1593074936670,
+		"views": 3157,
+		"latestView": 1593107137261,
 		"loot": {
-			"[]": 259
+			"[]": 282
 		}
 	},
 	"Ndng1cc": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the living room",
-				"desc": "passing through the threshold it becomes clear the family who once lived here is long gone. pictures of smiling people are partially covered by long-settled dust. down the hallway, a blue light paints the wall.",
-				"visited": "passing through the threshold it becomes clear the family who once lived here is long gone. pictures of smiling people are partially covered by long-settled dust. there's footprints in the dust on the floor, though. someone came through here not too long ago.",
 				"btns": {
-					"vEztH3l": {
+					"lfohYdC": {
 						"text": "the back room"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the living room",
+				"desc": "passing through the threshold it becomes clear the family who once lived here is long gone. pictures of smiling people are partially covered by long-settled dust. down the hallway, a blue light paints the wall.",
+				"req_met_desc": null,
+				"visited": "passing through the threshold it becomes clear the family who once lived here is long gone. pictures of smiling people are partially covered by long-settled dust. there's footprints in the dust on the floor, though. someone came through here not too long ago."
 			}
 		},
 		"options": [
@@ -2189,23 +2287,28 @@
 				"nfdami"
 			]
 		},
-		"views": 11
+		"views": 35,
+		"latestView": 1593111384805,
+		"loot": {
+			"[]": 24
+		}
 	},
 	"nfdami": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the back room",
-				"desc": "there's a television hanging from the wall, and a video is displayed on it. the power source is indeterminable. the video is only a few seconds long, looping constantly, and features a human in a clean suit, standing behind a podium. he talks briefly before being cut off by the loop.<span class='doc'>... by them. children are a dangerous sink for valuable and limited resources, and cause the lower classes to suffer further when a baby is born. for many, a child is a curse, not a gift. due to the controversy behind ...</span>the video loops again. there's a closet in the corner of this room.",
 				"btns": {
-					"mxAikBo": {
+					"pUwmkY7": {
 						"text": "the closet"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the back room",
+				"desc": "there's a television hanging from the wall, and a video is displayed on it. the power source is indeterminable. the video is only a few seconds long, looping constantly, and features a human in a clean suit, standing behind a podium. he talks briefly before being cut off by the loop.<span class='doc'>... by them. children are a dangerous sink for valuable and limited resources, and cause the lower classes to suffer further when a baby is born. for many, a child is a curse, not a gift. due to the controversy behind ...</span>the video loops again. there's a closet in the corner of this room.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -2217,23 +2320,28 @@
 				"N29f16l"
 			]
 		},
-		"views": 11
+		"views": 35,
+		"latestView": 1593111385766,
+		"loot": {
+			"[]": 24
+		}
 	},
 	"N29f16l": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the closet",
-				"desc": "there's a single cardboard box on the ground with some stuff inside.",
 				"btns": {
-					"5JL2iCM": {
+					"yoM3jHW": {
 						"text": "search"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the closet",
+				"desc": "there's a single cardboard box on the ground with some stuff inside.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -2245,7 +2353,11 @@
 				"d01d6h"
 			]
 		},
-		"views": 11
+		"views": 35,
+		"latestView": 1593111386754,
+		"loot": {
+			"[]": 24
+		}
 	},
 	"d01d6h": {
 		"type": "loot",
@@ -2255,7 +2367,7 @@
 			"visitdesc": "the box has been slightly folded with fresh creases. someone's looked inside already.",
 			"items": {
 				"scrap_metal": {
-					"count": 1,
+					"count": 4,
 					"data": {
 						"name": "scrap_metal",
 						"title": "scrap metal",
@@ -2264,142 +2376,16 @@
 						"icon": "ð",
 						"desc": "a few shards of metal. probably can be bent into useful shapes."
 					}
-				}
-			},
-			"visited": false
-		},
-		"options": [
-			"loot",
-			"leave"
-		],
-		"visits": {
-			"loot": [
-				"travel",
-				"d01d6h"
-			]
-		},
-		"views": 11
-	},
-	"h14h96": {
-		"type": "event",
-		"data": {
-			"visited": true,
-			"stage_data": {
-				"btns": {
-					"nKyiPVP": {
-						"text": "the bedroom"
-					},
-					"__leave__": {
-						"text": "leave"
-					}
 				},
-				"title": "the living room",
-				"desc": "cotton has been ripped from the furniture and spread across the floor, and nearby lays the rotting carcass of a small animal. there's a tiny kitchen to the side, stripped of its pottery and utensils, and in the back is a single door.",
-				"req_met_desc": null
-			}
-		},
-		"options": [
-			"the bedroom",
-			"leave"
-		],
-		"visits": {
-			"the bedroom": [
-				"Nl4j9da"
-			]
-		},
-		"views": 15,
-		"latestView": 1593068443375,
-		"loot": {
-			"[]": 2
-		}
-	},
-	"Nl4j9da": {
-		"type": "event",
-		"data": {
-			"visited": true,
-			"stage_data": {
-				"btns": {
-					"__leave__": {
-						"text": "leave"
-					}
-				},
-				"title": "in a noose",
-				"desc": "a human corpse hangs from the ceiling by a rope around its neck, ripped clothes hanging off its rotted skin. there's a bed in here as well, and next to it a nightstand with a dead clock and a small note. it reads:<span class='doc'>to whoever finds me, i'm sorry. i was weak. they took everything. they took our children from us. who could want to go on in a world like this? i just want to see the sky again. i'm out of food, and i can't even feed my dog. i'd rather take my own life before i grow hungry enough to consider eating her. if there's a light at the end of the tunnel, forgive me for running out of strength before i could find it.</span>there's nothing else in here.",
-				"req_met_desc": null
-			}
-		},
-		"options": [
-			"leave"
-		],
-		"visits": {
-			"leave": [
-				"travel"
-			]
-		},
-		"views": 15,
-		"latestView": 1593068444389,
-		"loot": {
-			"[]": 2
-		}
-	},
-	"Njlha1w": {
-		"type": "event",
-		"data": {
-			"visited": true,
-			"stage_data": {
-				"btns": {
-					"ARzNxYR": {
-						"text": "a plastic container"
-					},
-					"__leave__": {
-						"text": "leave"
-					}
-				},
-				"title": "the backyard",
-				"desc": "you walk around the structure and find an air conditioner in the back, sucking in ash and blowing it into the cabin. its power source is unknown. to its side is a closed plastic container.",
-				"req_met_desc": null,
-				"visited": "you walk around the structure and find an air conditioner in the back, sucking in ash and blowing it into the cabin. its power source is unknown. to its side is a plastic container, its lid leaning against its side."
-			}
-		},
-		"options": [
-			"a plastic container",
-			"leave"
-		],
-		"visits": {
-			"a plastic container": [
-				"Ns92lme"
-			]
-		},
-		"views": 8
-	},
-	"Ns92lme": {
-		"type": "loot",
-		"data": {
-			"title": "a plastic container",
-			"desc": "maybe something useful is inside.",
-			"visitdesc": "",
-			"items": {
-				"wire": {
-					"count": 1,
+				"cloth": {
+					"count": 2,
 					"data": {
-						"name": "wire",
-						"title": "wire",
+						"name": "cloth",
+						"title": "cloth",
 						"type": "misc",
 						"weight": 1,
-						"icon": "s",
-						"desc": "a line of copper wrapped in an insulator to carry electricity.",
-						"craft": true,
-						"craft_time": 8,
-						"craft_data": {
-							"copper_coil": {
-								"count": 1,
-								"title": "copper coil"
-							},
-							"cloth": {
-								"count": 1,
-								"title": "cloth"
-							}
-						}
+						"icon": "c",
+						"desc": "tattered and partially rotted fabric, but combined with others like it, could still be put to use."
 					}
 				}
 			},
@@ -2412,10 +2398,163 @@
 		"visits": {
 			"loot": [
 				"travel",
+				"d01d6h"
+			]
+		},
+		"views": 35,
+		"latestView": 1593111387688,
+		"loot": {
+			"[]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 2,
+			"[{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1
+		}
+	},
+	"h14h96": {
+		"type": "event",
+		"data": {
+			"visited": false,
+			"stage_data": {
+				"title": "the living room",
+				"desc": "cotton has been ripped from the furniture and spread across the floor, and nearby lays the rotting carcass of a small animal. there's a tiny kitchen to the side, stripped of its pottery and utensils, and in the back is a single door.",
+				"btns": {
+					"Mzvt7mA": {
+						"text": "the bedroom"
+					},
+					"__leave__": {
+						"text": "leave"
+					}
+				}
+			}
+		},
+		"options": [
+			"the bedroom",
+			"leave"
+		],
+		"visits": {
+			"the bedroom": [
+				"Nl4j9da"
+			]
+		},
+		"views": 40,
+		"latestView": 1593110156826,
+		"loot": {
+			"[]": 27
+		}
+	},
+	"Nl4j9da": {
+		"type": "event",
+		"data": {
+			"visited": false,
+			"stage_data": {
+				"title": "in a noose",
+				"desc": "a human corpse hangs from the ceiling by a rope around its neck, ripped clothes hanging off its rotted skin. there's a bed in here as well, and next to it a nightstand with a dead clock and a small note. it reads:<span class='doc'>to whoever finds me, i'm sorry. i was weak. they took everything. they took our children from us. who could want to go on in a world like this? i just want to see the sky again. i'm out of food, and i can't even feed my dog. i'd rather take my own life before i grow hungry enough to consider eating her. if there's a light at the end of the tunnel, forgive me for running out of strength before i could find it.</span>there's nothing else in here.",
+				"btns": {
+					"__leave__": {
+						"text": "leave"
+					}
+				}
+			}
+		},
+		"options": [
+			"leave"
+		],
+		"visits": {
+			"leave": [
+				"travel"
+			]
+		},
+		"views": 40,
+		"latestView": 1593110157828,
+		"loot": {
+			"[]": 27
+		}
+	},
+	"Njlha1w": {
+		"type": "event",
+		"data": {
+			"visited": false,
+			"stage_data": {
+				"title": "the backyard",
+				"desc": "you walk around the structure and find an air conditioner in the back, sucking in ash and blowing it into the cabin. its power source is unknown. to its side is a closed plastic container.",
+				"visited": "you walk around the structure and find an air conditioner in the back, sucking in ash and blowing it into the cabin. its power source is unknown. to its side is a plastic container, its lid leaning against its side.",
+				"btns": {
+					"1igHU4o": {
+						"text": "a plastic container"
+					},
+					"__leave__": {
+						"text": "leave"
+					}
+				}
+			}
+		},
+		"options": [
+			"a plastic container",
+			"leave"
+		],
+		"visits": {
+			"a plastic container": [
 				"Ns92lme"
 			]
 		},
-		"views": 8
+		"views": 38,
+		"latestView": 1593111640971,
+		"loot": {
+			"[]": 30
+		}
+	},
+	"Ns92lme": {
+		"type": "loot",
+		"data": {
+			"title": "a plastic container",
+			"desc": "maybe something useful is inside.",
+			"visitdesc": "",
+			"items": {},
+			"visited": false
+		},
+		"options": [
+			"loot",
+			"leave"
+		],
+		"visits": {
+			"loot": [
+				"travel",
+				"Ns92lme"
+			]
+		},
+		"views": 38,
+		"latestView": 1593111641919,
+		"loot": {
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 2,
+			"[]": 8,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 2,
+			"[{\"id\":\"wire\",\"name\":\"wire\",\"count\":3}]": 1,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1},{\"id\":\"baseball_bat\",\"name\":\"baseball bat\",\"count\":1}]": 1,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 2,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3}]": 2,
+			"[{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1}]": 1,
+			"[{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 3,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
+			"[{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1},{\"id\":\"baseball_bat\",\"name\":\"baseball bat\",\"count\":1}]": 1,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1}]": 1,
+			"[{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1},{\"id\":\"baseball_bat\",\"name\":\"baseball bat\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2}]": 1,
+			"[{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1
+		}
 	},
 	"m45mb0": {
 		"type": "event",
@@ -2425,7 +2564,7 @@
 				"title": "a shadowy figure",
 				"desc": "the shadows shroud the figure as you draw nearer it. it is motionless, seeming to watch you carefully until you are close enough to touch.",
 				"btns": {
-					"nmlXTpJ": {
+					"5R7A54P": {
 						"text": "make contact"
 					},
 					"__leave__": {
@@ -2444,24 +2583,27 @@
 				"m45mb0"
 			]
 		},
-		"views": 17
+		"views": 40,
+		"latestView": 1593107138241,
+		"loot": {
+			"[]": 23
+		}
 	},
 	"cxotkj": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "rows of pews",
+				"desc": "long seats are covered in sheetrock and glass from the collapsed ceiling above. a wooden altar stands above the room with a big and withered book on it. behind this is a fixture of a starved man with his arms outstretched, his wrists and feet driven through with nails to crossed wooden beams.",
 				"btns": {
-					"JltZYYO": {
+					"Z7RjaxY": {
 						"text": "the book"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "rows of pews",
-				"desc": "long seats are covered in sheetrock and glass from the collapsed ceiling above. a wooden altar stands above the room with a big and withered book on it. behind this is a fixture of a starved man with his arms outstretched, his wrists and feet driven through with nails to crossed wooden beams.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2473,31 +2615,30 @@
 				"nn8ete"
 			]
 		},
-		"views": 11,
-		"latestView": 1592808493687,
+		"views": 40,
+		"latestView": 1593112331855,
 		"loot": {
-			"[]": 1
+			"[]": 30
 		}
 	},
 	"nn8ete": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a withered book",
+				"desc": "after ascending the stairs, a dead man in white and gold robes is revealed, laying on his back with his arms outstretched. the book's pages have begun to rot, but the first sentence it's open to is clearly visible.<span class='doc'>for god so loved the world, that he gave his only begotten son, that whosoever believed in him should not perish, but have everlasting life</span>the words \"should not perish\" have been circled with a blue pen dozens of times, the page partially torn.",
 				"btns": {
-					"yINTdv5": {
+					"FtLdFVw": {
 						"text": "the back halls"
 					},
-					"8zbGXqz": {
+					"GjIAj00": {
 						"text": "the confession booth"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a withered book",
-				"desc": "after ascending the stairs, a dead man in white and gold robes is revealed, laying on his back with his arms outstretched. the book's pages have begun to rot, but the first sentence it's open to is clearly visible.<span class='doc'>for god so loved the world, that he gave his only begotten son, that whosoever believed in him should not perish, but have everlasting life</span>the words \"should not perish\" have been circled with a blue pen dozens of times, the page partially torn.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2510,28 +2651,27 @@
 				"x57ii6"
 			]
 		},
-		"views": 11,
-		"latestView": 1592808494668,
+		"views": 40,
+		"latestView": 1593112332820,
 		"loot": {
-			"[]": 1
+			"[]": 30
 		}
 	},
 	"x57ii6": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the back halls",
+				"desc": "the corridor is lined with strips of tape, their pictures having fallen to the floor long ago. the tiles are covered by colorful papers with depictions of ancient biblical events. the rooms have been cleared, only old plastic folding chairs and tables resting against the walls. there's a way to an electrical control room at the end of the hall, by the exit.",
 				"btns": {
-					"w20PGyb": {
+					"RHh3w0h": {
 						"text": "the control room"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "the back halls",
-				"desc": "the corridor is lined with strips of tape, their pictures having fallen to the floor long ago. the tiles are covered by colorful papers with depictions of ancient biblical events. the rooms have been cleared, only old plastic folding chairs and tables resting against the walls. there's a way to an electrical control room at the end of the hall, by the exit.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2543,10 +2683,10 @@
 				"lw3rip"
 			]
 		},
-		"views": 11,
-		"latestView": 1592808495656,
+		"views": 40,
+		"latestView": 1593112333808,
 		"loot": {
-			"[]": 1
+			"[]": 30
 		}
 	},
 	"lw3rip": {
@@ -2557,7 +2697,7 @@
 			"visitdesc": "",
 			"items": {
 				"scrap_metal": {
-					"count": 5,
+					"count": 2,
 					"data": {
 						"name": "scrap_metal",
 						"title": "scrap metal",
@@ -2587,7 +2727,7 @@
 					}
 				}
 			},
-			"visited": true
+			"visited": false
 		},
 		"options": [
 			"loot",
@@ -2598,28 +2738,50 @@
 				"travel"
 			]
 		},
-		"views": 11,
-		"latestView": 1592808496593,
+		"views": 40,
+		"latestView": 1593112334747,
 		"loot": {
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3}]": 1
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":6},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"wire\",\"name\":\"wire\",\"count\":4},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":6},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":2}]": 1,
+			"[{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":1}]": 1,
+			"[{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":2},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":2},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":2},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":6},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":5},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":1},{\"id\":\"battery\",\"name\":\"energy cell\",\"count\":1}]": 1,
+			"[{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":4},{\"id\":\"circuit_board\",\"name\":\"circuit board\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"copper_coil\",\"name\":\"copper coil\",\"count\":3}]": 1
 		}
 	},
 	"hbfou6": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a home office",
+				"desc": "the back wall has been ripped from the rest of the room, resting in a pile of debris where the rest of the house used to be. there's a computer in here on a desk, still plugged into the wall. somehow it still receives power, the monitor lit and awake.",
 				"btns": {
-					"lA3geow": {
+					"M8bhdFN": {
 						"text": "the computer"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a home office",
-				"desc": "the back wall has been ripped from the rest of the room, resting in a pile of debris where the rest of the house used to be. there's a computer in here on a desk, still plugged into the wall. somehow it still receives power, the monitor lit and awake.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2631,18 +2793,24 @@
 				"Nbqmiwv"
 			]
 		},
-		"views": 8
+		"views": 34,
+		"latestView": 1593109244138,
+		"loot": {
+			"[]": 26
+		}
 	},
 	"Nbqmiwv": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the computer",
+				"desc": "the desktop is empty except for the recycle bin and one file, called \"found.txt\".",
 				"btns": {
-					"79YY0nV": {
+					"2wQYMH9": {
 						"text": "found.txt"
 					},
-					"19PVHFq": {
+					"v9w1fYi": {
 						"has_req": true,
 						"hide_req": true,
 						"req_for_all": true,
@@ -2664,10 +2832,7 @@
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "the computer",
-				"desc": "the desktop is empty except for the recycle bin and one file, called \"found.txt\".",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2680,15 +2845,21 @@
 				"Ndymrr5"
 			]
 		},
-		"views": 8
+		"views": 34,
+		"latestView": 1593109245115,
+		"loot": {
+			"[]": 26
+		}
 	},
 	"Ndymrr5": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a text file",
+				"desc": "the notepad program opens up and reveals a quick message.<span class='doc'>hello, whoever ends up reading this. at some point someone cleared this computer but i thought i'd leave a message anyway. i've been seeing these people... strange people walking around, as though in a trance. they move quickly, but without effort; i've watched one walk from horizon to horizon without stopping for even a second. i hide when i see them. i'm out of food and water, probably gonna die soon. maybe i'm just hallucinating.</span>the file's properties reveal it was written about thirty years ago. very recent, relatively.",
 				"btns": {
-					"19PVHFq": {
+					"v9w1fYi": {
 						"has_req": true,
 						"hide_req": true,
 						"req_for_all": true,
@@ -2710,10 +2881,7 @@
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "a text file",
-				"desc": "the notepad program opens up and reveals a quick message.<span class='doc'>hello, whoever ends up reading this. at some point someone cleared this computer but i thought i'd leave a message anyway. i've been seeing these people... strange people walking around, as though in a trance. they move quickly, but without effort; i've watched one walk from horizon to horizon without stopping for even a second. i hide when i see them. i'm out of food and water, probably gonna die soon. maybe i'm just hallucinating.</span>the file's properties reveal it was written about thirty years ago. very recent, relatively.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2726,25 +2894,29 @@
 				"Ndymrr5"
 			]
 		},
-		"views": 9
+		"views": 35,
+		"latestView": 1593109246106,
+		"loot": {
+			"[]": 26
+		}
 	},
 	"4tv44d": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"uMKxU10": {
-						"text": "an old note",
-						"option": "uMKxU10"
-					},
-					"__leave__": {
-						"text": "leave"
-					}
-				},
 				"title": "the kitchen",
 				"desc": "a small generator, powered by a solar panel, remits what power it gains from the darkened world into the bulb above. knives were stolen and used for weapons long ago. otherwise empty, the cracked counter has a decaying paper resting on it.",
-				"req_met_desc": null
+				"btns": {
+					"0wEFVsp": {
+						"text": "an old note",
+						"option": "0wEFVsp"
+					},
+					"__leave__": {
+						"text": "leave",
+						"option": "__leave__"
+					}
+				}
 			}
 		},
 		"options": [
@@ -2756,29 +2928,29 @@
 				"N4em7z0"
 			]
 		},
-		"views": 10,
-		"latestView": 1592888138312,
+		"views": 36,
+		"latestView": 1593109031356,
 		"loot": {
-			"[]": 1
+			"[]": 27
 		}
 	},
 	"N4em7z0": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
-				"btns": {
-					"1r8cXBK": {
-						"text": "the top floor",
-						"option": "1r8cXBK"
-					},
-					"__leave__": {
-						"text": "leave"
-					}
-				},
 				"title": "an old note",
 				"desc": "what's visible on the note reads:<span class='doc'>a pity to have been born so late. being forced to grow up at this point in history. humanity near its</span>maybe the upper floor has anything left.",
-				"req_met_desc": null
+				"btns": {
+					"9zpfMh5": {
+						"text": "the top floor",
+						"option": "9zpfMh5"
+					},
+					"__leave__": {
+						"text": "leave",
+						"option": "__leave__"
+					}
+				}
 			}
 		},
 		"options": [
@@ -2790,28 +2962,27 @@
 				"oo15x8"
 			]
 		},
-		"views": 10,
-		"latestView": 1592888139297,
+		"views": 36,
+		"latestView": 1593109032337,
 		"loot": {
-			"[]": 1
+			"[]": 27
 		}
 	},
 	"oo15x8": {
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the top floor",
+				"desc": "the stairs creak loudly, echoing through the gaping hole in the roof. the walls separating the rooms have fallen away to mere rubble. there's a trash bag in the back corner of all the mess, covered in the ash that coats the rest of this area. maybe there's something someone didn't need.",
 				"btns": {
-					"psIdD6L": {
+					"9G4zSpE": {
 						"text": "search"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				},
-				"title": "the top floor",
-				"desc": "the stairs creak loudly, echoing through the gaping hole in the roof. the walls separating the rooms have fallen away to mere rubble. there's a trash bag in the back corner of all the mess, covered in the ash that coats the rest of this area. maybe there's something someone didn't need.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
@@ -2824,10 +2995,10 @@
 				"hamcoi"
 			]
 		},
-		"views": 10,
-		"latestView": 1592888140295,
+		"views": 36,
+		"latestView": 1593109033331,
 		"loot": {
-			"[]": 1
+			"[]": 27
 		}
 	},
 	"hamcoi": {
@@ -2838,7 +3009,7 @@
 			"visitdesc": "the bag has been bent over and ripped. whoever was here has searched it already.",
 			"items": {
 				"wood_stick": {
-					"count": 2,
+					"count": 3,
 					"data": {
 						"name": "wood_stick",
 						"title": "wood plank",
@@ -2847,20 +3018,9 @@
 						"icon": "/",
 						"desc": "a plank of old wood. versatile and cheap."
 					}
-				},
-				"scrap_metal": {
-					"count": 2,
-					"data": {
-						"name": "scrap_metal",
-						"title": "scrap metal",
-						"type": "misc",
-						"weight": 2,
-						"icon": "ð",
-						"desc": "a few shards of metal. probably can be bent into useful shapes."
-					}
 				}
 			},
-			"visited": true
+			"visited": false
 		},
 		"options": [
 			"loot",
@@ -2871,27 +3031,39 @@
 				"travel"
 			]
 		},
-		"views": 10,
-		"latestView": 1592888141266,
+		"views": 36,
+		"latestView": 1593109034276,
 		"loot": {
-			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":2},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 1
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":2},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 2,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":3},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1}]": 2,
+			"[{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1}]": 8,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":1},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 1,
+			"[{\"id\":\"shovel\",\"name\":\"shovel\",\"count\":1},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1}]": 2,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":2}]": 2,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":1}]": 1,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":2},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rusty_knife\",\"name\":\"rusty knife\",\"count\":1}]": 1,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":3},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 3,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":3},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 2,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":1},{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 2,
+			"[{\"id\":\"wood_stick\",\"name\":\"wood plank\",\"count\":3}]": 1
 		}
 	},
 	"hbuavp": {
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "a pet store",
-				"desc": "a cracked building stands alone among a line of rubble, broken windows with peeling advertisements declaring this was a store for domestic animals. a dusty road emerges from the ash to lead up to what was once a bustling strip mall.",
 				"btns": {
-					"VDdJVm9": {
+					"djJ6olx": {
 						"text": "enter"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "a pet store",
+				"desc": "a cracked building stands alone among a line of rubble, broken windows with peeling advertisements declaring this was a store for domestic animals. a dusty road emerges from the ash to lead up to what was once a bustling strip mall.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -2907,10 +3079,10 @@
 				"travel"
 			]
 		},
-		"views": 3159,
-		"latestView": 1593075151344,
+		"views": 3184,
+		"latestView": 1593111962127,
 		"loot": {
-			"[]": 263
+			"[]": 288
 		}
 	},
 	"Nmvvdsm": {
@@ -2919,7 +3091,7 @@
 			"visited": true,
 			"stage_data": {
 				"btns": {
-					"6Eoxmx4": {
+					"tUVwcVa": {
 						"text": "the aisles"
 					},
 					"__leave__": {
@@ -2940,7 +3112,11 @@
 				"pa1w3d"
 			]
 		},
-		"views": 11
+		"views": 36,
+		"latestView": 1593111963109,
+		"loot": {
+			"[]": 25
+		}
 	},
 	"pa1w3d": {
 		"type": "event",
@@ -2948,7 +3124,7 @@
 			"visited": true,
 			"stage_data": {
 				"btns": {
-					"AyFFtXs": {
+					"pNWRPQS": {
 						"text": "the adoption center"
 					},
 					"__leave__": {
@@ -2969,7 +3145,11 @@
 				"2wnaj1"
 			]
 		},
-		"views": 11
+		"views": 36,
+		"latestView": 1593111964103,
+		"loot": {
+			"[]": 25
+		}
 	},
 	"2wnaj1": {
 		"type": "event",
@@ -2977,7 +3157,7 @@
 			"visited": true,
 			"stage_data": {
 				"btns": {
-					"Lj8JfVT": {
+					"RWqrM5o": {
 						"text": "the stocking room"
 					},
 					"__leave__": {
@@ -2999,7 +3179,11 @@
 				"2wnaj1"
 			]
 		},
-		"views": 11
+		"views": 36,
+		"latestView": 1593111965076,
+		"loot": {
+			"[]": 25
+		}
 	},
 	"tbnvf8": {
 		"type": "event",
@@ -3007,7 +3191,7 @@
 			"visited": true,
 			"stage_data": {
 				"btns": {
-					"JT7K9K6": {
+					"MTEcNxK": {
 						"text": "look around"
 					},
 					"__leave__": {
@@ -3028,7 +3212,11 @@
 				"wmgctr"
 			]
 		},
-		"views": 11
+		"views": 36,
+		"latestView": 1593111966101,
+		"loot": {
+			"[]": 25
+		}
 	},
 	"wmgctr": {
 		"type": "loot",
@@ -3037,15 +3225,42 @@
 			"desc": "a few cursory items are strewn about, some worth taking.",
 			"visitdesc": "",
 			"items": {
-				"scrap_metal": {
-					"count": 3,
+				"rope": {
+					"count": 1,
 					"data": {
-						"name": "scrap_metal",
-						"title": "scrap metal",
+						"name": "rope",
+						"title": "rope",
 						"type": "misc",
-						"weight": 2,
-						"icon": "ð",
-						"desc": "a few shards of metal. probably can be bent into useful shapes."
+						"weight": 3,
+						"icon": "~",
+						"desc": "a small section of rope, its ends frayed."
+					}
+				},
+				"cloth": {
+					"count": 4,
+					"data": {
+						"name": "cloth",
+						"title": "cloth",
+						"type": "misc",
+						"weight": 1,
+						"icon": "c",
+						"desc": "tattered and partially rotted fabric, but combined with others like it, could still be put to use."
+					}
+				},
+				"soda_bottle": {
+					"count": 1,
+					"data": {
+						"name": "soda_bottle",
+						"title": "broken soda bottle",
+						"type": "weap",
+						"weight": 5,
+						"icon": "{,",
+						"desc": "a broken glass soda bottle, the faded label of its blue and red logo still prominent.",
+						"weapon": true,
+						"weapon_data": {
+							"dmg": 8,
+							"sp": 6
+						}
 					}
 				}
 			},
@@ -3060,7 +3275,30 @@
 				"travel"
 			]
 		},
-		"views": 11
+		"views": 36,
+		"latestView": 1593111967014,
+		"loot": {
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":2}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"wire\",\"name\":\"wire\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"soda_bottle\",\"name\":\"broken soda bottle\",\"count\":1}]": 1
+		}
 	},
 	"Nmbh305": {
 		"type": "event",
@@ -3070,7 +3308,7 @@
 				"title": "a governing city",
 				"desc": "rather than towering skyscrapers, the city ahead is comprised of massive structures that stay low to the ground. separated by many long fields and pits in the earth that must have once been lakes, the old buildings are supported by numerous columns, with highly detailed decorations sculpted into every inch of the stone they're built from. none are more than a few stories tall, but they bear an ancient strength, resisting the powerful winds that would wither a more modern tower. the path ahead leads to one of the great stone edifices, punctured by a tunnel straight through the center, continuing toward the sprawling fields beyond. there's a flicker of movement behind one of the many windows, but after focusing on it for a few minutes, nothing further happens.",
 				"btns": {
-					"mFHsPcB": {
+					"N5Csw6h": {
 						"text": "the tunnel"
 					},
 					"__leave__": {
@@ -3098,10 +3336,10 @@
 				"Nmbh305"
 			]
 		},
-		"views": 3261,
-		"latestView": 1593075639218,
+		"views": 3287,
+		"latestView": 1593110304682,
 		"loot": {
-			"[]": 234
+			"[]": 260
 		}
 	},
 	"7u1cex": {
@@ -3330,21 +3568,22 @@
 		}
 	},
 	"Natz9b1": {
-		"views": 680,
+		"views": 710,
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "a weathered house",
-				"desc": "a yellow home sticks out of the ground like a stain in the landscape, no accompanying road or houses nearby to indicate it as part of a neighborhood. the siding is peeling, the windows are broken, and the door hangs open, unmoving in the dead atmosphere.",
 				"btns": {
-					"IAazhwi": {
+					"v8MLivp": {
 						"text": "enter"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "a weathered house",
+				"desc": "a yellow home sticks out of the ground like a stain in the landscape, no accompanying road or houses nearby to indicate it as part of a neighborhood. the siding is peeling, the windows are broken, and the door hangs open, unmoving in the dead atmosphere.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -3359,30 +3598,31 @@
 				"travel"
 			]
 		},
-		"latestView": 1593075629367,
+		"latestView": 1593110390454,
 		"loot": {
-			"[]": 284
+			"[]": 314
 		}
 	},
 	"Nx0mvfh": {
-		"views": 427,
+		"views": 456,
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the entrance hall",
-				"desc": "the front door opens into a hallway, with an entrance to either side for a moldy bathroom and a living room. old photos and paintings hang in the hallway, which leads to a kitchen.",
 				"btns": {
-					"dKvMaCM": {
+					"HvLtm1Y": {
 						"text": "the living room"
 					},
-					"TwpuPZe": {
+					"hm6EdEt": {
 						"text": "the kitchen"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the entrance hall",
+				"desc": "the front door opens into a hallway, with an entrance to either side for a moldy bathroom and a living room. old photos and paintings hang in the hallway, which leads to a kitchen.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -3395,27 +3635,28 @@
 				"65tb7d"
 			]
 		},
-		"latestView": 1592811580150,
+		"latestView": 1593110391429,
 		"loot": {
-			"[]": 31
+			"[]": 60
 		}
 	},
 	"65tb7d": {
-		"views": 427,
+		"views": 456,
 		"type": "event",
 		"data": {
-			"visited": false,
+			"visited": true,
 			"stage_data": {
-				"title": "the kitchen",
-				"desc": "the kitchen is small, complete with only a few rotted chairs around a fallen table and a refrigerator. it's still humming, power somehow still reaching it after all this time, but the door hangs open, revealing an empty interior. the freezer door has alphabet magnets on it, a few of them spelling \"we miss you mom\". there's a door leading to the backyard.",
 				"btns": {
-					"GLlAYEA": {
+					"IZW1U89": {
 						"text": "the backyard"
 					},
 					"__leave__": {
 						"text": "leave"
 					}
-				}
+				},
+				"title": "the kitchen",
+				"desc": "the kitchen is small, complete with only a few rotted chairs around a fallen table and a refrigerator. it's still humming, power somehow still reaching it after all this time, but the door hangs open, revealing an empty interior. the freezer door has alphabet magnets on it, a few of them spelling \"we miss you mom\". there's a door leading to the backyard.",
+				"req_met_desc": null
 			}
 		},
 		"options": [
@@ -3427,13 +3668,13 @@
 				"N8zeuzw"
 			]
 		},
-		"latestView": 1592811581028,
+		"latestView": 1593110392419,
 		"loot": {
-			"[]": 31
+			"[]": 60
 		}
 	},
 	"N8zeuzw": {
-		"views": 427,
+		"views": 456,
 		"type": "loot",
 		"data": {
 			"title": "the backyard",
@@ -3441,7 +3682,7 @@
 			"visitdesc": "",
 			"items": {
 				"scrap_metal": {
-					"count": 2,
+					"count": 3,
 					"data": {
 						"name": "scrap_metal",
 						"title": "scrap metal",
@@ -3463,7 +3704,7 @@
 					}
 				}
 			},
-			"visited": false
+			"visited": true
 		},
 		"options": [
 			"loot",
@@ -3474,42 +3715,56 @@
 				"travel"
 			]
 		},
-		"latestView": 1592811581973,
+		"latestView": 1593110393354,
 		"loot": {
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4}]": 3,
 			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 3,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 5,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2}]": 4,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 2,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 2,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 3,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1}]": 3,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
-			"[]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[]": 4,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 2,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 2,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 1,
 			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":2}]": 1,
 			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
-			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":2},{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5}]": 1,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 2,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":3},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":5},{\"id\":\"fire_extinguisher\",\"name\":\"fire extinguisher\",\"count\":1}]": 1,
+			"[{\"id\":\"scrap_metal\",\"name\":\"scrap metal\",\"count\":4},{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 1
 		}
 	},
 	"N1fxbts": {
-		"views": 28,
+		"views": 54,
 		"type": "loot",
 		"data": {
 			"title": "a dead man",
 			"desc": "the shotgun is useless and has no ammunition, but his form might conceal something.",
 			"items": {},
 			"item_limit": 50,
-			"visited": true
+			"visited": false
 		},
 		"options": [
 			"loot",
@@ -3520,34 +3775,43 @@
 				"Nnkh4ub"
 			]
 		},
-		"latestView": 1593023134155,
+		"latestView": 1593112308140,
 		"loot": {
 			"[{\"id\":\"shotgun_shell\",\"name\":\"shotgun shell\",\"count\":1}]": 1,
-			"[]": 1
+			"[]": 3,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 2,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2}]": 2,
+			"[{\"id\":\"rope\",\"name\":\"rope\",\"count\":2}]": 4,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":2},{\"id\":\"bp_metal_detector\",\"name\":\"bp: metal detector\",\"count\":1}]": 2,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3}]": 4,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":4},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 2,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":2},{\"id\":\"bp_metal_detector\",\"name\":\"bp: metal detector\",\"count\":1},{\"id\":\"shotgun_shell\",\"name\":\"shotgun shell\",\"count\":1}]": 2,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":3},{\"id\":\"rope\",\"name\":\"rope\",\"count\":1}]": 2,
+			"[{\"id\":\"steel_shard\",\"name\":\"steel shard\",\"count\":3},{\"id\":\"bp_metal_detector\",\"name\":\"bp: metal detector\",\"count\":1}]": 2,
+			"[{\"id\":\"cloth\",\"name\":\"cloth\",\"count\":1}]": 2
 		}
 	},
 	"Nus3yqr": {
-		"views": 543,
+		"views": 574,
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "a blasted city",
+				"desc": "the asphalt leading to the red towers ahead is smoothed over, as though it had been fiercely melted into uniformity. the edges of the road are tinged with glass, hiding beneath the ash and sand. the skyscrapers have had their windows and walls blasted off, exposing their rusted skeletons of steel. one tower pierces the black clouds in the atmosphere, but the rest fall short. the ash floating in the air is joined by the tangy smell of metallic dust, gently raining from the city's bones. the flat road leads deep inside the city.",
 				"btns": {
-					"8mS9B5E": {
+					"YbEismJ": {
 						"text": "the road"
 					},
 					"__leave__": {
-						"text": "leave"
+						"text": "exit event"
 					}
-				},
-				"title": "a blasted city",
-				"desc": "the asphalt leading to the red towers ahead is smoothed over, as though it had been fiercely melted into uniformity. the edges of the road are tinged with glass, hiding beneath the ash and sand. the skyscrapers have had their windows and walls blasted off, exposing their rusted skeletons of steel. one tower pierces the black clouds in the atmosphere, but the rest fall short. the ash floating in the air is joined by the tangy smell of metallic dust, gently raining from the city's bones. the flat road leads deep inside the city.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
 			"the road",
-			"leave"
+			"exit event"
 		],
 		"visits": {
 			"the road": [
@@ -3557,74 +3821,72 @@
 				"travel"
 			]
 		},
-		"latestView": 1593074833204,
+		"latestView": 1593112293425,
 		"loot": {
-			"[]": 234
+			"[]": 265
 		}
 	},
 	"to3ylz": {
-		"views": 542,
+		"views": 573,
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "black and red",
+				"desc": "the smaller buildings are entirely burnt out, brick and rusted steel the only indicator that they once existed. what isn't caked in ash is glaring in angry red, like an ancient fiery beast. the road continues deeper, but even as the remains of the structures grow taller, the debris grows thicker, crowding the flat street and making your travel slower. you climb atop the rubble and continue on, the flat road disappearing underneath the wreckage. the path continues into the heart of the city, until you reach the foot of the tallest tower, the one you saw from the outside. what once were grand double doors welcome you inside, but you could get in through any of the numerous broken windows at ground level anyway. this tower isn't as skeletal as the others; some walls are still intact, and many patches of concrete indicate that floors higher up are still stable.",
 				"btns": {
-					"9kSbbtA": {
+					"zLm6yIG": {
 						"text": "the tower"
 					},
 					"__leave__": {
-						"text": "leave"
+						"text": "exit event"
 					}
-				},
-				"title": "black and red",
-				"desc": "the smaller buildings are entirely burnt out, brick and rusted steel the only indicator that they once existed. what isn't caked in ash is glaring in angry red, like an ancient fiery beast. the road continues deeper, but even as the remains of the structures grow taller, the debris grows thicker, crowding the flat street and making your travel slower. you climb atop the rubble and continue on, the flat road disappearing underneath the wreckage. the path continues into the heart of the city, until you reach the foot of the tallest tower, the one you saw from the outside. what once were grand double doors welcome you inside, but you could get in through any of the numerous broken windows at ground level anyway. this tower isn't as skeletal as the others; some walls are still intact, and many patches of concrete indicate that floors higher up are still stable.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
 			"the tower",
-			"leave"
+			"exit event"
 		],
 		"visits": {
 			"the tower": [
 				"304ldl"
 			]
 		},
-		"latestView": 1593074834193,
+		"latestView": 1593112294417,
 		"loot": {
-			"[]": 234
+			"[]": 265
 		}
 	},
 	"304ldl": {
-		"views": 541,
+		"views": 572,
 		"type": "event",
 		"data": {
-			"visited": true,
+			"visited": false,
 			"stage_data": {
+				"title": "the tower lobby",
+				"desc": "the rusted steel beams imply a grand and tall lobby, with many directions to go and floors to explore, but the blasted rubble covers the floor and most of the halls. anything that could have been wood or paper is now just charred husk. the area is well-lit, light flowing in from the many gaps in the walls. from here, there's an elevator shaft, a hall with a symbol indicating a staircase, and a door with an \"exit\" sign over it.",
 				"btns": {
-					"tzq4xi1": {
+					"h6xS7ui": {
 						"text": "the elevator"
 					},
-					"U2fhQgg": {
+					"bOkO1Sn": {
 						"text": "the staircase"
 					},
-					"9xHCcyo": {
+					"K6d9RsW": {
 						"text": "the exit sign"
 					},
 					"__leave__": {
-						"text": "leave"
+						"text": "exit event"
 					}
-				},
-				"title": "the tower lobby",
-				"desc": "the rusted steel beams imply a grand and tall lobby, with many directions to go and floors to explore, but the blasted rubble covers the floor and most of the halls. anything that could have been wood or paper is now just charred husk. the area is well-lit, light flowing in from the many gaps in the walls. from here, there's an elevator shaft, a hall with a symbol indicating a staircase, and a door with an \"exit\" sign over it.",
-				"req_met_desc": null
+				}
 			}
 		},
 		"options": [
 			"the elevator",
 			"the staircase",
 			"the exit sign",
-			"leave"
+			"exit event"
 		],
 		"visits": {
 			"leave": [
@@ -3634,9 +3896,9 @@
 				"travel"
 			]
 		},
-		"latestView": 1593074835178,
+		"latestView": 1593112295397,
 		"loot": {
-			"[]": 234
+			"[]": 265
 		}
 	},
 	"ozrn5l": {

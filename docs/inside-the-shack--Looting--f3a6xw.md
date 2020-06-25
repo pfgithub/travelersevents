@@ -1,6 +1,6 @@
 # inside the shack (Looting)
 
-Seen 7 times. Last seen ??.
+Seen 41 times. Last seen 2020-06-25T19:06:59.209Z.
 
 maybe there's some supplies inside.
 
@@ -9,11 +9,17 @@ maybe there's some supplies inside.
 - **loot**: [Travel](Travel-travel.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
-- +3 rope (<code>~</code>)  
-  a small section of rope, its ends frayed.  
-  **weight**: 3 units
-- +3 wire (<code>s</code>)  
-  a line of copper wrapped in an insulator to carry electricity.  
-  **weight**: 1 units
+  - rope: x**0**: 52.94% (18/34), x**1**: 17.65% (6/34), x**2**: 8.82% (3/34), x**3**: 20.59% (7/34)
+  - wire: x**0**: 44.12% (15/34), x**1**: 17.65% (6/34), x**2**: 8.82% (3/34), x**3**: 8.82% (3/34), x**4**: 20.59% (7/34)
+  - steel shard: x**0**: 76.47% (26/34), x**1**: 5.88% (2/34), x**2**: 11.76% (4/34), x**3**: 5.88% (2/34)
+  - energy cell: x**0**: 70.59% (24/34), x**1**: 17.65% (6/34), x**2**: 11.76% (4/34)
+  - shovel: x**0**: 79.41% (27/34), x**1**: 20.59% (7/34)
+  - scrap metal: x**0**: 17.65% (6/34), x**1**: 32.35% (11/34), x**2**: 50.00% (17/34)
+  - plastic pieces: x**0**: 82.35% (28/34), x**1**: 5.88% (2/34), x**2**: 11.76% (4/34)
+  - cloth: x**0**: 79.41% (27/34), x**1**: 2.94% (1/34), x**3**: 5.88% (2/34), x**4**: 11.76% (4/34)
+  - bolt cutters: x**0**: 91.18% (31/34), x**1**: 8.82% (3/34)
+  - crowbar: x**0**: 91.18% (31/34), x**1**: 8.82% (3/34)
+  - machete: x**0**: 94.12% (32/34), x**1**: 5.88% (2/34)
+  - axe: x**0**: 97.06% (33/34), x**1**: 2.94% (1/34)

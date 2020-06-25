@@ -1,6 +1,6 @@
 # a strange cube (Looting)
 
-Seen 13 times. Last seen ??.
+Seen 35 times. Last seen 2020-06-25T18:26:32.080Z.
 
 a perfect cube, cut from some unknown material, juts out from the dead end ahead. it glows purple, its hue shifting slightly as your view of it changes angles, and it hums loudly.
 
@@ -9,8 +9,6 @@ a perfect cube, cut from some unknown material, juts out from the dead end ahead
 - **loot**: [a frigid intersection](a-frigid-intersection-Ntmsnt3.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
-- +1 unknown material fragment (<code>O</code>)  
-  a heavy, spherical material that mostly resembles stone, but it glows bright purple, its hue shifting slightly when viewed from different angles. its surface, where not cracked, is extremely smooth, and it has a unique scent.  
-  **weight**: 10 units
+  - unknown material fragment: x**1**: 100.00% (22/22)

@@ -1,6 +1,6 @@
 # a frigid intersection
 
-Seen 39 times. Last seen ??.
+Seen 105 times. Last seen 2020-06-25T18:26:33.110Z.
 
 the tunnel diverges in three directions, the bitter light of the fluorescent tubes makes the sewer feel colder. a low-pitched hum comes from the north path.
 
