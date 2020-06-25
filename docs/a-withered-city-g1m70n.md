@@ -1,6 +1,6 @@
 # a withered city
 
-Seen 3391 times. Last seen 2020-06-25T18:26:25.207Z.
+Seen 3400 times. Last seen 2020-06-25T22:30:32.993Z.
 
 sprawling skyscrapers tower overhead, triumphed only by the massive sinkhole that has swallowed every road in sight. smaller buildings have collapsed into it, spilling rubble everywhere, while the bigger ones' support beams are exposed to the open air. the hole is long and wide, encompassing most of the city from where you stand, but it doesn't seem to be too deep. as you walk forward, you can see a path is made through some cracked roads laying over the debris toward an underground tunnel.
 

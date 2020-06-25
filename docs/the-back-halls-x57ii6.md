@@ -1,6 +1,6 @@
 # the back halls
 
-Seen 40 times. Last seen 2020-06-25T19:12:13.808Z.
+Seen 54 times. Last seen 2020-06-25T23:01:21.375Z.
 
 the corridor is lined with strips of tape, their pictures having fallen to the floor long ago. the tiles are covered by colorful papers with depictions of ancient biblical events. the rooms have been cleared, only old plastic folding chairs and tables resting against the walls. there's a way to an electrical control room at the end of the hall, by the exit.
 

@@ -1,6 +1,6 @@
 # an old trash bag (Looting)
 
-Seen 36 times. Last seen 2020-06-25T18:17:14.276Z.
+Seen 44 times. Last seen 2020-06-25T22:41:50.800Z.
 
 there's some unknown liquid oozing off the plastic, but it's worth a look inside.
 
@@ -13,7 +13,7 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 
 ## Loot Frequency:
 
-  - shovel: x**0**: 62.96% (17/27), x**1**: 37.04% (10/27)
-  - rusty knife: x**0**: 81.48% (22/27), x**1**: 18.52% (5/27)
-  - wood plank: x**0**: 37.04% (10/27), x**1**: 14.81% (4/27), x**2**: 18.52% (5/27), x**3**: 29.63% (8/27)
-  - scrap metal: x**0**: 51.85% (14/27), x**1**: 7.41% (2/27), x**2**: 7.41% (2/27), x**3**: 22.22% (6/27), x**4**: 11.11% (3/27)
+  - shovel: x**0**: 60.00% (21/35), x**1**: 40.00% (14/35)
+  - rusty knife: x**0**: 80.00% (28/35), x**1**: 20.00% (7/35)
+  - wood plank: x**0**: 40.00% (14/35), x**1**: 20.00% (7/35), x**2**: 14.29% (5/35), x**3**: 25.71% (9/35)
+  - scrap metal: x**0**: 51.43% (18/35), x**1**: 5.71% (2/35), x**2**: 14.29% (5/35), x**3**: 20.00% (7/35), x**4**: 8.57% (3/35)

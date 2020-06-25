@@ -1,6 +1,6 @@
 # the stocking room
 
-Seen 36 times. Last seen 2020-06-25T19:06:06.101Z.
+Seen 43 times. Last seen 2020-06-25T22:10:14.030Z.
 
 the dull and dark gray of the maintenance room contrasts the main store area. the shelves here reflect the state of the main area as well. the back garage door is open, the black tendrils of ash leaking in. there might be something worth taking.
 
