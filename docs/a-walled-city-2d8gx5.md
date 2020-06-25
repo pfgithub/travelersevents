@@ -1,6 +1,6 @@
 # a walled city
 
-Seen 3244 times. Last seen 2020-06-22T07:43:26.768Z.
+Seen 3423 times. Last seen 2020-06-25T09:05:01.441Z.
 
 a majestic city enclosed in ancient stone rises out of the horizon, its innermost towers piercing the unending clouds. the portion of wall you've approached is dominating and unscathed, but a section a few kilometers to the east looks a little more weathered.
 

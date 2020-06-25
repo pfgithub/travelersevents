@@ -1,6 +1,6 @@
 # a hole in the ground (Looting)
 
-Seen 132591 times. Last seen 2020-06-22T07:54:30.916Z.
+Seen 142177 times. Last seen 2020-06-25T09:06:44.868Z.
 
 dug with haste.
 
@@ -13,9 +13,11 @@ dug with haste.
 
 ## Loot Frequency:
 
-- +25.39% (425/1674) chance of:
-  - copper ore: <a title="36.00% (153/425)">2</a>, <a title="33.65% (143/425)">3</a>, <a title="30.35% (129/425)">4</a> (hover for chance)
-- +49.52% (829/1674) chance of:
-  - scrap metal: <a title="33.05% (274/829)">2</a>, <a title="33.66% (279/829)">3</a>, <a title="33.29% (276/829)">4</a> (hover for chance)
-- +25.09% (420/1674) chance of:
-  - steel shard: <a title="35.24% (148/420)">2</a>, <a title="29.05% (122/420)">3</a>, <a title="35.71% (150/420)">4</a> (hover for chance)
+- +0.03% (3/11260) chance of:
+  - *No items*
+- +24.72% (2783/11260) chance of:
+  - copper ore: x**2**: 33.88% (943/2783), x**3**: 34.35% (956/2783), x**4**: 31.76% (884/2783)
+- +49.56% (5581/11260) chance of:
+  - scrap metal: x**2**: 33.94% (1894/5581), x**3**: 32.74% (1827/5581), x**4**: 33.33% (1860/5581)
+- +25.69% (2893/11260) chance of:
+  - steel shard: x**2**: 33.22% (961/2893), x**3**: 32.80% (949/2893), x**4**: 33.98% (983/2893)

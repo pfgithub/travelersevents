@@ -12,5 +12,5 @@ a few electrical parts are still laying around. some might be useful.
 ## Loot Frequency:
 
 - +100.00% (1/1) chance of:
-  - scrap metal: <a title="100.00% (1/1)">5</a> (hover for chance)
-  - copper coil: <a title="100.00% (1/1)">3</a> (hover for chance)
+  - scrap metal: x**5**: 100.00% (1/1)
+  - copper coil: x**3**: 100.00% (1/1)

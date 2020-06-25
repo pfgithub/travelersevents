@@ -75,10 +75,10 @@ function eventPrint(k, ev) {
             res += "- +"+percent(groupTotal, total)+" chance of:\n";
             let vlus = Object.entries(itemValues);
             if(vlus.length === 0)
-                res += "  - *No items*";
+                res += "  - *No items*\n";
             for(let [_, item] of vlus) {
-                let counts = item.counts.map(a => "<a title=\""+percent(a.chance, groupTotal)+"\">" + a.count + "</a>").join(", ");
-                res += "  - "+item.name+": "+counts+" (hover for chance)\n";
+                let counts = item.counts.map(a => "x**"+a.count+"**: "+percent(a.chance, groupTotal)+ "").join(", ");
+                res += "  - "+item.name+": "+counts+"\n";
             }
         }
         res += "\n";

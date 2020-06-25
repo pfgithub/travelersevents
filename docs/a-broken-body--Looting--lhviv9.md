@@ -14,13 +14,13 @@ the ruined corpse of a traveler lies on the ground, surrounded neatly by its pos
 ## Loot Frequency:
 
 - +100.00% (1/1) chance of:
-  - circuit board: <a title="100.00% (1/1)">2</a> (hover for chance)
-  - crowbar: <a title="100.00% (1/1)">1</a> (hover for chance)
-  - copper_coil: <a title="100.00% (1/1)">8</a> (hover for chance)
-  - wire: <a title="100.00% (1/1)">6</a> (hover for chance)
-  - cloth: <a title="100.00% (1/1)">8</a> (hover for chance)
-  - rusty knife: <a title="100.00% (1/1)">1</a> (hover for chance)
-  - rope: <a title="100.00% (1/1)">3</a> (hover for chance)
-  - scrap metal: <a title="100.00% (1/1)">15</a> (hover for chance)
-  - wood_stick: <a title="100.00% (1/1)">2</a> (hover for chance)
-  - shovel: <a title="100.00% (1/1)">1</a> (hover for chance)
+  - circuit board: x**2**: 100.00% (1/1)
+  - crowbar: x**1**: 100.00% (1/1)
+  - copper_coil: x**8**: 100.00% (1/1)
+  - wire: x**6**: 100.00% (1/1)
+  - cloth: x**8**: 100.00% (1/1)
+  - rusty knife: x**1**: 100.00% (1/1)
+  - rope: x**3**: 100.00% (1/1)
+  - scrap metal: x**15**: 100.00% (1/1)
+  - wood_stick: x**2**: 100.00% (1/1)
+  - shovel: x**1**: 100.00% (1/1)
