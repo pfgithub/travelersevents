@@ -1,6 +1,6 @@
 # the living room
 
-Seen 51 times. Last seen 2020-06-25T23:09:12.599Z.
+Seen 72 times. Last seen 2020-06-26T09:32:01.486Z.
 
 cotton has been ripped from the furniture and spread across the floor, and nearby lays the rotting carcass of a small animal. there's a tiny kitchen to the side, stripped of its pottery and utensils, and in the back is a single door.
 

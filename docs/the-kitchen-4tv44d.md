@@ -1,6 +1,6 @@
 # the kitchen
 
-Seen 44 times. Last seen 2020-06-25T22:41:47.886Z.
+Seen 65 times. Last seen 2020-06-26T09:29:44.476Z.
 
 a small generator, powered by a solar panel, remits what power it gains from the darkened world into the bulb above. knives were stolen and used for weapons long ago. otherwise empty, the cracked counter has a decaying paper resting on it.
 

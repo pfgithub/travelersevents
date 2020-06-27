@@ -1,6 +1,6 @@
 # an empty waiting room
 
-Seen 52 times. Last seen 2020-06-25T23:00:40.098Z.
+Seen 74 times. Last seen 2020-06-26T09:25:55.810Z.
 
 the glass door creaks open to reveal a colorful room, with posters of cartoon characters peeling off the walls. the chairs in the lobby are still aligned neatly, and papers still rest peacefully on the receptionist's desk. someone could have been here as recently as yesterday. there's a few doors against the walls, and a short hallway that leads to a kitchen and maintenance area.
 

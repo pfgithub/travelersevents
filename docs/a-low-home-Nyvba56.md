@@ -1,6 +1,6 @@
 # a low home
 
-Seen 3241 times. Last seen 2020-06-25T22:37:10.923Z.
+Seen 3325 times. Last seen 2020-06-27T06:12:01.590Z.
 
 the simple structure juts out of the landscape like a raw bone, short and worn by time. the door is chained shut, but the one window to the side is long shattered.
 

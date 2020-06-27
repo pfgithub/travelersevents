@@ -1,6 +1,6 @@
 # a ruined house
 
-Seen 3345 times. Last seen 2020-06-25T22:41:46.916Z.
+Seen 3433 times. Last seen 2020-06-27T05:52:57.419Z.
 
 there's a unique odor in the air as you enter the house, the door clattering off its hinges. a once comfortable home has fallen to now-dead insects. all the furniture was removed from the living room, scrapes still marking the floor from when they were stolen. a light flickers in the kitchen.
 

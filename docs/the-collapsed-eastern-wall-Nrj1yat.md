@@ -1,6 +1,6 @@
 # the collapsed eastern wall
 
-Seen 40 times. Last seen 2020-06-25T22:40:13.321Z.
+Seen 65 times. Last seen 2020-06-26T10:26:24.433Z.
 
 rubble is spread evenly, skewing far into the desert. whatever destroyed it must have come from inside. you can step delicately over the strewn cement and metal to get through. passing around the edge of the wall reveals the great city, its tall towers still relinquishing debris to the strong winds. the clouds are parted at the tip of the highest tower, revealing the slightest hint of blue sky. the ground lowers into a massive lake, the ashen waters covering the base of every tower. the closest structure to you appears to be an oil refinery, its maze of pipes surrounding the inner building.
 
