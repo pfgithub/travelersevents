@@ -7,4 +7,4 @@ the percussive blast goes off, thundering through the bunker as the man's blood 
 ## Buttons:
 
 - **the journal**: [the blood-soaked journal](the-blood-soaked-journal-Ne415o3.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

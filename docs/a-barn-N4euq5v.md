@@ -7,4 +7,4 @@ once used for housing farm supplies, a barn with chipping paint now rests with i
 ## Buttons:
 
 - **enter**: [a shadowy figure](a-shadowy-figure-m45mb0.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

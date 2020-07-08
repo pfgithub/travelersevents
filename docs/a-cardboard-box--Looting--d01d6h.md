@@ -8,7 +8,7 @@ in spite of the dying world, the box is clean, and still might have something le
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Loot Frequency:

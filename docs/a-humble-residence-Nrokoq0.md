@@ -7,4 +7,4 @@ a short structure, weathered from time, is barely noticeable among the dead tree
 ## Buttons:
 
 - **enter**: [the living room](the-living-room-h14h96.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

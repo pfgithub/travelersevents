@@ -9,4 +9,4 @@ a row of tall garage doors stand indented into the short building, boarded over 
 ## Buttons:
 
 - **go in**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

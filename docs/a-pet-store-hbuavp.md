@@ -7,4 +7,4 @@ a cracked building stands alone among a line of rubble, broken windows with peel
 ## Buttons:
 
 - **enter**: [inside](inside-Nmvvdsm.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

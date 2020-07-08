@@ -7,4 +7,4 @@ a majestic city enclosed in ancient stone rises out of the horizon, its innermos
 ## Buttons:
 
 - **the eastern side**: [the collapsed eastern wall](the-collapsed-eastern-wall-Nrj1yat.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

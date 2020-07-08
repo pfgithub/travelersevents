@@ -9,4 +9,4 @@ the buildings are unfathomably tall, cutting through the ashen atmosphere. their
 - **the subway**: [the subway](the-subway-6u9okl.md)
 - **the tent**: [a camping tent (Looting)](a-camping-tent--Looting--2542cy.md)
 - **the skyscraper**: [the tower's bones](the-tower-s-bones-Nwvszfr.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

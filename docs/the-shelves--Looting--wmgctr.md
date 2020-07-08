@@ -6,7 +6,7 @@ a few cursory items are strewn about, some worth taking.
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Loot Frequency:

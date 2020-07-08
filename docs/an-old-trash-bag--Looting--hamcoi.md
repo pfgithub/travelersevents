@@ -8,7 +8,7 @@ there's some unknown liquid oozing off the plastic, but it's worth a look inside
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Loot Frequency:

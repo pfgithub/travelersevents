@@ -7,4 +7,4 @@ sprawling skyscrapers tower overhead, triumphed only by the massive sinkhole tha
 ## Buttons:
 
 - **the tunnel**: [the tunnel](the-tunnel-Ne68x5o.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

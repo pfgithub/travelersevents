@@ -8,7 +8,7 @@ the ruined corpse of a traveler lies on the ground, surrounded neatly by its pos
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Loot Frequency:

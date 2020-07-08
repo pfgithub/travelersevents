@@ -7,4 +7,4 @@ the notepad program opens up and reveals a quick message.<span class='doc'>hello
 ## Buttons:
 
 - **connect drive**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

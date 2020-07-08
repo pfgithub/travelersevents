@@ -7,4 +7,4 @@ a yellow home sticks out of the ground like a stain in the landscape, no accompa
 ## Buttons:
 
 - **enter**: [the entrance hall](the-entrance-hall-Nx0mvfh.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

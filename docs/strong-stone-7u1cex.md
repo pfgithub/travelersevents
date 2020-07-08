@@ -8,4 +8,4 @@ the tunnel is decorated by sculptures of ancient humans in disorderly robes, its
 
 - **the staircase**: I have not gone this way yet.
 - **continue**: I have not gone this way yet.
-- **exit event**: [Travel](Travel-travel.md)
+- **exit event**: [travel](travel-travel.md)

@@ -6,4 +6,4 @@ you walk another kilometer down the subway until the tunnel begins to curve upwa
 
 ## Buttons:
 
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

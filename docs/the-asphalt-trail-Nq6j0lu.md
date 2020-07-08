@@ -7,4 +7,4 @@ you walk along the small road toward the city, underneath the dancing pipes, and
 ## Buttons:
 
 - **the bridge**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

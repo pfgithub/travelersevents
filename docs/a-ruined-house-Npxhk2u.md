@@ -7,4 +7,4 @@ there's a unique odor in the air as you enter the house, the door clattering off
 ## Buttons:
 
 - **the kitchen**: [the kitchen](the-kitchen-4tv44d.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

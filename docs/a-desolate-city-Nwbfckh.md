@@ -8,4 +8,4 @@ red skyscrapers rise out of the wasteland, their strong metal beams exposed and 
 
 - **the slums**: I have not gone this way yet.
 - **the highway**: [the midst of the towers](the-midst-of-the-towers-lxsdpw.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

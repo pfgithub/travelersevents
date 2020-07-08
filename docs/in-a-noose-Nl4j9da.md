@@ -6,4 +6,4 @@ a human corpse hangs from the ceiling by a rope around its neck, ripped clothes 
 
 ## Buttons:
 
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

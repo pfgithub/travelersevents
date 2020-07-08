@@ -6,7 +6,7 @@ a toy car is overturned in the dirt, ash layered on top of it. there's an open s
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Loot Frequency:

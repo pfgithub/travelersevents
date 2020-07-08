@@ -9,4 +9,4 @@ the rusted steel beams imply a grand and tall lobby, with many directions to go 
 - **the elevator**: I have not gone this way yet.
 - **the staircase**: I have not gone this way yet.
 - **the exit sign**: I have not gone this way yet.
-- **exit event**: [Travel](Travel-travel.md)
+- **exit event**: [travel](travel-travel.md)

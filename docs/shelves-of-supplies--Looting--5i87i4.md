@@ -6,7 +6,7 @@ among the cans of food and gallons of water are scraps worth looking at.
 
 ## Buttons:
 
-- **loot**: [Travel](Travel-travel.md)
+- **loot**: [travel](travel-travel.md)
 - **leave**: I have not gone this way yet.
 
 ## Example Loot:

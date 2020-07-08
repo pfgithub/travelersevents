@@ -7,4 +7,4 @@ the shadows shroud the figure as you draw nearer it. it is motionless, seeming t
 ## Buttons:
 
 - **make contact**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

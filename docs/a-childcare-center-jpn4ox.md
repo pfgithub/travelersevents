@@ -7,4 +7,4 @@ asphalt escapes beneath the ashen sand and leads to a single building, standing 
 ## Buttons:
 
 - **look inside**: [an empty waiting room](an-empty-waiting-room-xqyqbv.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

@@ -7,7 +7,7 @@ let locationFiles = new Map();
 let locationNames = new Map();
 
 function eventTitle(ev) {
-    if(ev.type === "travel") return "Travel";
+    if(ev.type === "travel") return "travel";
     if(ev.type === "loot") return ev.data.title + " (Looting)";
     if(ev.type === "event") return ev.data.stage_data.title;
     throw new Error("unreachable");

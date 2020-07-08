@@ -7,4 +7,4 @@ rather than towering skyscrapers, the city ahead is comprised of massive structu
 ## Buttons:
 
 - **the tunnel**: [strong stone](strong-stone-7u1cex.md)
-- **exit event**: [Travel](Travel-travel.md)
+- **exit event**: [travel](travel-travel.md)

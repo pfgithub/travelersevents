@@ -7,4 +7,4 @@ the tunnel curves upward and into the open air, at the edge of a road leading ou
 ## Buttons:
 
 - **east**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

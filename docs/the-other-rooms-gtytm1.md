@@ -7,4 +7,4 @@ each room is a different color, with walls plastered with historical facts, simp
 ## Buttons:
 
 - **the front desk**: I have not gone this way yet.
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

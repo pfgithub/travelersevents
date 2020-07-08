@@ -7,4 +7,4 @@ the simple structure juts out of the landscape like a raw bone, short and worn b
 ## Buttons:
 
 - **climb inside**: [a home office](a-home-office-hbfou6.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)

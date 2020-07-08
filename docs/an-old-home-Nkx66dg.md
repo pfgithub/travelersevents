@@ -7,4 +7,4 @@ the house stands strong, despite the world's decay. the roof, though coated in t
 ## Buttons:
 
 - **enter**: [the living room](the-living-room-Ndng1cc.md)
-- **leave**: [Travel](Travel-travel.md)
+- **leave**: [travel](travel-travel.md)
