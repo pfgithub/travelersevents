@@ -1,6 +1,6 @@
 # inside
 
-Seen 71 times. Last seen 2020-06-26T10:14:31.242Z.
+Seen 73 times. Last seen 2020-07-07T05:54:24.869Z.
 
 the colorful walls have faded with time, the tiles cracked by whoever once made a stand here. barbed wire surrounds the entrance inside, but it's easy to pick through when there's no one actively defending it. a few starved corpses rest on the ground with rotted and rusted weapons over their chests, surrounded by empty canned goods.
 

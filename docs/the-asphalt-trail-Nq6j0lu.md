@@ -1,6 +1,6 @@
 # the asphalt trail
 
-Seen 65 times. Last seen 2020-06-26T10:26:30.348Z.
+Seen 68 times. Last seen 2020-07-06T18:42:11.522Z.
 
 you walk along the small road toward the city, underneath the dancing pipes, and are eventually met by a wide, empty parking lot. just past it is a bridge.
 

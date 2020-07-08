@@ -1,6 +1,6 @@
 # a blasted city
 
-Seen 647 times. Last seen 2020-06-27T05:45:35.065Z.
+Seen 1272 times. Last seen 2020-07-08T08:21:16.535Z.
 
 the asphalt leading to the red towers ahead is smoothed over, as though it had been fiercely melted into uniformity. the edges of the road are tinged with glass, hiding beneath the ash and sand. the skyscrapers have had their windows and walls blasted off, exposing their rusted skeletons of steel. one tower pierces the black clouds in the atmosphere, but the rest fall short. the ash floating in the air is joined by the tangy smell of metallic dust, gently raining from the city's bones. the flat road leads deep inside the city.
 

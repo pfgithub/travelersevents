@@ -1,6 +1,6 @@
 # a desolate city
 
-Seen 3384 times. Last seen 2020-06-27T05:50:47.349Z.
+Seen 4048 times. Last seen 2020-07-08T08:36:40.891Z.
 
 red skyscrapers rise out of the wasteland, their strong metal beams exposed and oxidized. the soot-caked wasteland turns into hard asphalt, rising over slums that begin to poke out of the sand. an exit curves away to your right, but otherwise, the highway continues onward.
 

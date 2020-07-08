@@ -53,7 +53,7 @@ function eventPrint(k, ev) {
         let total = loot.reduce((t, b) => t + b[1], 0);
         let itemGroups = {};
         for(let [json, count] of loot) {
-            let skip = ev.data.title === "a hole in the ground" ? false : true;
+            let skip = ev.data.title === "a hole in the ground" || ev.data.title === "a broken body" ? false : true;
             let key = skip || [...new Set(json.map(item => item.id))].sort().join("%,%");
             if(!itemGroups[key]) itemGroups[key] = {arr: [], total: 0};
             itemGroups[key].total += count;
