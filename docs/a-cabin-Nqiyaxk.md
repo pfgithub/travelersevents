@@ -1,6 +1,6 @@
 # a cabin
 
-Seen 4193 times. Last seen 2020-07-08T08:27:37.871Z.
+Seen 5603 times. Last seen 2020-08-03T18:54:16.540Z.
 
 a small cabin stands weak against the withered wasteland. termites have eaten the front wall away, rusted hinges the only thing that indicate a door was once here. the floor inside seems unstable.
 

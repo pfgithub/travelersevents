@@ -1,6 +1,6 @@
 # dim daylight
 
-Seen 132 times. Last seen 2020-06-26T10:25:35.148Z.
+Seen 136 times. Last seen 2020-07-15T02:34:18.633Z.
 
 the west path curves away, but the walls reflect the dim light of the outer atmosphere. the water spilling in from that direction is thick with ash.
 

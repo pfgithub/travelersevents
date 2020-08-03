@@ -1,6 +1,6 @@
 # a strange cube (Looting)
 
-Seen 66 times. Last seen 2020-06-26T10:25:30.149Z.
+Seen 68 times. Last seen 2020-07-15T02:34:13.651Z.
 
 a perfect cube, cut from some unknown material, juts out from the dead end ahead. it glows purple, its hue shifting slightly as your view of it changes angles, and it hums loudly.
 
@@ -11,4 +11,4 @@ a perfect cube, cut from some unknown material, juts out from the dead end ahead
 
 ## Loot Frequency:
 
-  - unknown material fragment: x**1**: 100.00% (53/53)
+  - unknown material fragment: x**1**: 100.00% (55/55)

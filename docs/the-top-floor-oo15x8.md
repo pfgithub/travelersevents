@@ -1,6 +1,6 @@
 # the top floor
 
-Seen 65 times. Last seen 2020-06-26T09:29:46.437Z.
+Seen 66 times. Last seen 2020-07-18T10:58:22.935Z.
 
 the stairs creak loudly, echoing through the gaping hole in the roof. the walls separating the rooms have fallen away to mere rubble. there's a trash bag in the back corner of all the mess, covered in the ash that coats the rest of this area. maybe there's something someone didn't need.
 

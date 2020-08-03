@@ -1,6 +1,6 @@
 # the adoption center
 
-Seen 74 times. Last seen 2020-07-07T05:54:26.831Z.
+Seen 76 times. Last seen 2020-08-01T00:00:39.185Z.
 
 glass walls with holes for small dogs and cats to breathe through are intact, despite the surrounding disarray. behind the door that leads through are two more corpses, a few years more fresh than the previous ones. tiny bones litter the floor around them, picked clean.
 

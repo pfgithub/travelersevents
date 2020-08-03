@@ -1,6 +1,6 @@
 # a home office
 
-Seen 64 times. Last seen 2020-07-07T17:59:10.605Z.
+Seen 65 times. Last seen 2020-07-29T20:48:03.948Z.
 
 the back wall has been ripped from the rest of the room, resting in a pile of debris where the rest of the house used to be. there's a computer in here on a desk, still plugged into the wall. somehow it still receives power, the monitor lit and awake.
 
