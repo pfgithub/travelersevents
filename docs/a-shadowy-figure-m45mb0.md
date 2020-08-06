@@ -1,6 +1,6 @@
 # a shadowy figure
 
-Seen 90 times. Last seen 2020-07-23T22:05:58.653Z.
+Seen 92 times. Last seen 2020-08-04T22:52:06.465Z.
 
 the shadows shroud the figure as you draw nearer it. it is motionless, seeming to watch you carefully until you are close enough to touch.
 

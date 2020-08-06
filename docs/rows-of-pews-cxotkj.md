@@ -1,6 +1,6 @@
 # rows of pews
 
-Seen 79 times. Last seen 2020-07-24T14:47:19.137Z.
+Seen 80 times. Last seen 2020-08-05T17:43:21.048Z.
 
 long seats are covered in sheetrock and glass from the collapsed ceiling above. a wooden altar stands above the room with a big and withered book on it. behind this is a fixture of a starved man with his arms outstretched, his wrists and feet driven through with nails to crossed wooden beams.
 
