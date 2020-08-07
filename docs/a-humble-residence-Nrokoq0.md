@@ -1,6 +1,6 @@
 # a humble residence
 
-Seen 5823 times. Last seen 2020-08-06T04:18:29.458Z.
+Seen 5866 times. Last seen 2020-08-07T00:52:39.505Z.
 
 a short structure, weathered from time, is barely noticeable among the dead trees in the wasteland. the knob has been broken off the front door, leaving it to swing freely in the wind.
 

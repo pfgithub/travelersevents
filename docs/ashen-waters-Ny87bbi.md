@@ -1,6 +1,6 @@
 # ashen waters
 
-Seen 68 times. Last seen 2020-07-06T18:42:06.591Z.
+Seen 113 times. Last seen 2020-08-07T01:32:10.367Z.
 
 you descend into the water, submerging yourself almost entirely, and begin swimming toward the refinery. the water burns lightly, getting worse as you swim on. you can feel the stinging through your clothes, and just as you can feel your outer layer of skin begin withering, you arrive at the refinery. the wire fence that blocks it has mostly fallen, and after picking through it you find an exit from the building back here, chains and a warning sign blocking the way. there's probably another way in further around too.
 

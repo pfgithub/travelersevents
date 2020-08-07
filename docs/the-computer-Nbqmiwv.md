@@ -1,6 +1,6 @@
 # the computer
 
-Seen 65 times. Last seen 2020-07-29T20:48:04.923Z.
+Seen 103 times. Last seen 2020-08-07T01:39:59.928Z.
 
 the desktop is empty except for the recycle bin and one file, called "found.txt".
 

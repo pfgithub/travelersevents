@@ -1,6 +1,6 @@
 # a childcare center
 
-Seen 5742 times. Last seen 2020-08-06T07:27:15.682Z.
+Seen 5787 times. Last seen 2020-08-07T00:32:13.474Z.
 
 asphalt escapes beneath the ashen sand and leads to a single building, standing alone among a strip of collapsed structures. a sign over the glass doors indicates it was once a place where parents would leave their children during working hours. graffiti coats the walls, most of it too faded to read, but one mural states "it was them all along".
 

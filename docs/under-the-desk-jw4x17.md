@@ -1,6 +1,6 @@
 # under the desk
 
-Seen 115 times. Last seen 2020-08-03T10:24:34.827Z.
+Seen 140 times. Last seen 2020-08-07T00:30:53.534Z.
 
 the drawers have been cleared but beneath the desk is a small black safe, its paint slightly chipped with rust. there can't be much room for something inside.
 

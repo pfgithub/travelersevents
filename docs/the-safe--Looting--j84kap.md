@@ -1,6 +1,6 @@
 # the safe (Looting)
 
-Seen 1 time. Last seen ??.
+Seen 24 times. Last seen 2020-08-07T00:30:54.488Z.
 
 the hinges creak surprisingly loudly for such a small thing.
 
@@ -9,8 +9,6 @@ the hinges creak surprisingly loudly for such a small thing.
 - **loot**: [the ruined office](the-ruined-office-Nnkh4ub.md)
 - **leave**: I have not gone this way yet.
 
-## Example Loot:
+## Loot Frequency:
 
-- +1 keycard type a (<code>[a]</code>)  
-  it describes itself as a security clearance card, with access limited to "group a".  
-  **weight**: 1 units
+  - keycard type a: x**1**: 100.00% (23/23)
