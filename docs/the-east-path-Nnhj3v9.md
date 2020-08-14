@@ -1,6 +1,6 @@
 # the east path
 
-Seen 108 times. Last seen 2020-08-07T00:35:34.820Z.
+Seen 123 times. Last seen 2020-08-12T19:18:16.168Z.
 
 the tunnel bends down, the water flowing freely with it. it gradually becomes steeper, the air growing colder, and the smooth cement floor growing more slick. after a few more steps, your feet slip out from beneath you, sending you crashing to the floor and sliding for several seconds down the tube until it levels again, your body finally skidding to a stop. the ground is so slick with condensation that there would be no way back up.
 

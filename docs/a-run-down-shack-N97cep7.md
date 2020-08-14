@@ -1,6 +1,6 @@
 # a run-down shack
 
-Seen 5684 times. Last seen 2020-08-07T01:51:37.938Z.
+Seen 6093 times. Last seen 2020-08-14T04:00:44.130Z.
 
 a short structure stands ahead, and a pile of rubble rests near it. seems like the house this belonged to was destroyed.
 

@@ -1,6 +1,6 @@
 # the safe (Looting)
 
-Seen 24 times. Last seen 2020-08-07T00:30:54.488Z.
+Seen 37 times. Last seen 2020-08-13T17:16:52.806Z.
 
 the hinges creak surprisingly loudly for such a small thing.
 
@@ -11,4 +11,4 @@ the hinges creak surprisingly loudly for such a small thing.
 
 ## Loot Frequency:
 
-  - keycard type a: x**1**: 100.00% (23/23)
+  - keycard type a: x**1**: 100.00% (36/36)

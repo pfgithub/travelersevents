@@ -1,6 +1,6 @@
 # a barn
 
-Seen 5589 times. Last seen 2020-08-07T01:45:36.013Z.
+Seen 5993 times. Last seen 2020-08-14T03:30:07.166Z.
 
 once used for housing farm supplies, a barn with chipping paint now rests with its large doors wide open. peering inside, it looks like someone is standing there, watching you as you walk closer.
 

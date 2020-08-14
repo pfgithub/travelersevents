@@ -1,6 +1,6 @@
 # the tunnel
 
-Seen 108 times. Last seen 2020-08-07T00:35:32.829Z.
+Seen 123 times. Last seen 2020-08-12T19:18:14.192Z.
 
 you can see a murky liquid gently trickling out of the tunnel as you approach it, the towers rising higher overhead. the tunnel is rectangular, with an indent at the bottom to let the liquid leak out. it's the entry to a sewage system, its sparse fluorescent lights somehow still glowing despite the destruction.
 

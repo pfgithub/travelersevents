@@ -1,6 +1,6 @@
 # the backyard
 
-Seen 104 times. Last seen 2020-08-07T00:12:12.894Z.
+Seen 122 times. Last seen 2020-08-12T19:21:26.362Z.
 
 you walk around the structure and find an air conditioner in the back, sucking in ash and blowing it into the cabin. its power source is unknown. to its side is a closed plastic container.
 

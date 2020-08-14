@@ -1,6 +1,6 @@
 # the tower lobby
 
-Seen 2787 times. Last seen 2020-08-07T01:38:12.905Z.
+Seen 3135 times. Last seen 2020-08-14T04:06:54.601Z.
 
 the rusted steel beams imply a grand and tall lobby, with many directions to go and floors to explore, but the blasted rubble covers the floor and most of the halls. anything that could have been wood or paper is now just charred husk. the area is well-lit, light flowing in from the many gaps in the walls. from here, there's an elevator shaft, a hall with a symbol indicating a staircase, and a door with an "exit" sign over it.
 

@@ -1,6 +1,6 @@
 # a cardboard box (Looting)
 
-Seen 114 times. Last seen 2020-08-07T01:50:08.851Z.
+Seen 124 times. Last seen 2020-08-11T22:14:09.794Z.
 
 in spite of the dying world, the box is clean, and still might have something left.
 
@@ -13,7 +13,7 @@ in spite of the dying world, the box is clean, and still might have something le
 
 ## Loot Frequency:
 
-  - cloth: x**0**: 56.31% (58/103), x**1**: 12.62% (13/103), x**2**: 7.77% (8/103), x**3**: 8.74% (9/103), x**4**: 14.56% (15/103)
-  - broken soda bottle: x**0**: 59.22% (61/103), x**1**: 40.78% (42/103)
-  - scrap metal: x**0**: 25.24% (26/103), x**1**: 20.39% (21/103), x**2**: 14.56% (15/103), x**3**: 18.45% (19/103), x**4**: 21.36% (22/103)
-  - fire extinguisher: x**0**: 94.17% (97/103), x**1**: 5.83% (6/103)
+  - cloth: x**0**: 52.21% (59/113), x**1**: 15.93% (18/113), x**2**: 7.96% (9/113), x**3**: 7.96% (9/113), x**4**: 15.93% (18/113)
+  - broken soda bottle: x**0**: 57.52% (65/113), x**1**: 42.48% (48/113)
+  - fire extinguisher: x**0**: 93.81% (106/113), x**1**: 6.19% (7/113)
+  - scrap metal: x**0**: 25.66% (29/113), x**1**: 20.35% (23/113), x**2**: 14.16% (16/113), x**3**: 18.58% (21/113), x**4**: 21.24% (24/113)

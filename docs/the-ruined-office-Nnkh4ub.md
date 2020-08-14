@@ -1,6 +1,6 @@
 # the ruined office
 
-Seen 327 times. Last seen 2020-08-07T00:30:55.572Z.
+Seen 379 times. Last seen 2020-08-13T17:16:53.858Z.
 
 an office room is covered in shards of glass, shattered inward from where windows used to be. blood coats the wall behind the desk, and a dead body, its flesh withered away, is sprawled against the chair without a head. in its limp arms, a shotgun rests, its wood rotted and metal rusted. on top of the desk is a short handwritten note.<span class='doc'>they found me. i see the lights of their cars outside my office. forgive me that i had to leave you all this way. i hope you can find someone else to supply you. don't let them win.</span>it might be worth a look around to see if anything is left.
 
