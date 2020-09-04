@@ -1,6 +1,6 @@
 # the closet
 
-Seen 123 times. Last seen 2020-08-11T22:14:08.950Z.
+Seen 798 times. Last seen 2020-09-04T01:01:28.901Z.
 
 there's a single cardboard box on the ground with some stuff inside.
 

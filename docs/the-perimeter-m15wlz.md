@@ -1,6 +1,6 @@
 # the perimeter
 
-Seen 126 times. Last seen 2020-08-12T19:07:14.115Z.
+Seen 755 times. Last seen 2020-09-04T00:31:12.878Z.
 
 it's clear why the wire fence was here; climbing over all the intersecting pipes and machinery proves to be more difficult than it seemed. after a while you arrive at a road, pipes still reaching overhead. one path leads left to an opening in the fence, toward the city. to the right is what appears to be the main entrance.
 

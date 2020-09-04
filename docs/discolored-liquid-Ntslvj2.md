@@ -1,6 +1,6 @@
 # discolored liquid
 
-Seen 123 times. Last seen 2020-08-12T19:18:22.065Z.
+Seen 733 times. Last seen 2020-09-04T00:04:44.354Z.
 
 the sewage here is tinted gray.
 

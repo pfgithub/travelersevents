@@ -1,6 +1,6 @@
 # the entrance hall
 
-Seen 557 times. Last seen 2020-08-12T19:00:41.089Z.
+Seen 1188 times. Last seen 2020-09-03T23:15:58.795Z.
 
 the front door opens into a hallway, with an entrance to either side for a moldy bathroom and a living room. old photos and paintings hang in the hallway, which leads to a kitchen.
 

@@ -1,6 +1,6 @@
 # the tunnel
 
-Seen 1 time. Last seen ??.
+Seen 69 times. Last seen 2020-09-03T23:41:50.939Z.
 
 it's now pitch black, the little existing light now totally absorbed. you trail a hand on the wall to keep track of where you are, rubbing mud off as you go. after a few minutes, your hand collides with a cold metal box fixed to the side of the tunnel. feeling at it, you realize it opens, and your hand rests on what feels like a lever.
 

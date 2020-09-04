@@ -1,6 +1,6 @@
 # the midst of the towers
 
-Seen 190 times. Last seen 2020-08-13T17:16:54.830Z.
+Seen 1415 times. Last seen 2020-09-04T00:27:19.273Z.
 
 the buildings are unfathomably tall, cutting through the ashen atmosphere. their decorative exteriors have been worn away by something powerful; what was once colorful paint and detailed engravings are now simply blasted steel, leaving the skeletons bare and open. from certain angles you can see straight through each structure. you arrive at an intersection, where an entrance to a subway to your right leads underground. across the way is a large blue tent, pinned to the street, its opening flapping in the wind. to the left, you notice one of the bare skyscrapers has an intact staircase a few layers into its bones.
 
